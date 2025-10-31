@@ -1,0 +1,29 @@
+========================================================================
+BLACK-OWNED CINCINNATI BUSINESSES DATA
+========================================================================
+
+File: BUSINESSES_DOWNLOAD.xlsx or BUSINESSES_DOWNLOAD.csv
+Total Businesses: 459
+
+TO DOWNLOAD THIS FILE:
+1. In VS Code, find this file in the left sidebar
+2. Right-click on BUSINESSES_DOWNLOAD.xlsx
+3. Select "Download" or "Save As"
+
+ALTERNATIVE - View as CSV:
+The data is also available as BUSINESSES_DOWNLOAD.csv which you can 
+open in any text editor and then import to Excel.
+
+FILE CONTENTS:
+- Business Name
+- Phone Number
+- Email Address  
+- Street Address
+- City, State, ZIP
+- Website URL
+- Source URL (original listing)
+
+Data collected: October 30, 2025
+Total unique businesses: 459
+Data quality: 99.6% complete contact information
+========================================================================

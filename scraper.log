@@ -1,0 +1,265 @@
+2025-10-30 00:33:04,107 - INFO - Scanning page 1: https://thevoiceofblackcincinnati.com/black-owned-businesses/
+2025-10-30 00:33:05,376 - INFO -   ✓ Found 15 new businesses on page 1 (Total: 15)
+2025-10-30 00:33:06,377 - INFO - Scanning page 2: https://thevoiceofblackcincinnati.com/black-owned-businesses/page/2/
+2025-10-30 00:33:07,387 - INFO - No new business links found on page 2 - stopping
+2025-10-30 00:33:07,387 - INFO - ✓ Total unique business links collected: 15
+2025-10-30 00:33:31,453 - INFO - 💾 Progress saved: 10 businesses
+2025-10-30 00:33:45,953 - INFO - 📊 Final save: 15 businesses to black_owned_businesses_complete_20251030_003304.xlsx
+2025-10-30 00:34:08,274 - INFO - Scanning page 1: https://thevoiceofblackcincinnati.com/black-owned-business/
+2025-10-30 00:34:09,328 - INFO -   ✓ Found 11 new businesses on page 1 (Total: 11)
+2025-10-30 00:34:10,328 - INFO - Scanning page 2: https://thevoiceofblackcincinnati.com/black-owned-business/page/2/
+2025-10-30 00:34:11,272 - INFO -   ✓ Found 12 new businesses on page 2 (Total: 23)
+2025-10-30 00:34:12,272 - INFO - Scanning page 3: https://thevoiceofblackcincinnati.com/black-owned-business/page/3/
+2025-10-30 00:34:13,241 - INFO -   ✓ Found 11 new businesses on page 3 (Total: 34)
+2025-10-30 00:34:14,241 - INFO - Scanning page 4: https://thevoiceofblackcincinnati.com/black-owned-business/page/4/
+2025-10-30 00:34:15,149 - INFO -   ✓ Found 11 new businesses on page 4 (Total: 45)
+2025-10-30 00:34:16,149 - INFO - Scanning page 5: https://thevoiceofblackcincinnati.com/black-owned-business/page/5/
+2025-10-30 00:34:17,311 - INFO -   ✓ Found 11 new businesses on page 5 (Total: 56)
+2025-10-30 00:34:18,311 - INFO - Scanning page 6: https://thevoiceofblackcincinnati.com/black-owned-business/page/6/
+2025-10-30 00:34:19,381 - INFO -   ✓ Found 11 new businesses on page 6 (Total: 67)
+2025-10-30 00:34:20,381 - INFO - Scanning page 7: https://thevoiceofblackcincinnati.com/black-owned-business/page/7/
+2025-10-30 00:34:21,267 - INFO -   ✓ Found 11 new businesses on page 7 (Total: 78)
+2025-10-30 00:34:22,267 - INFO - Scanning page 8: https://thevoiceofblackcincinnati.com/black-owned-business/page/8/
+2025-10-30 00:34:23,224 - INFO -   ✓ Found 11 new businesses on page 8 (Total: 89)
+2025-10-30 00:34:24,224 - INFO - Scanning page 9: https://thevoiceofblackcincinnati.com/black-owned-business/page/9/
+2025-10-30 00:34:25,324 - INFO -   ✓ Found 11 new businesses on page 9 (Total: 100)
+2025-10-30 00:34:26,325 - INFO - Scanning page 10: https://thevoiceofblackcincinnati.com/black-owned-business/page/10/
+2025-10-30 00:34:27,207 - INFO -   ✓ Found 16 new businesses on page 10 (Total: 116)
+2025-10-30 00:34:28,208 - INFO - Scanning page 11: https://thevoiceofblackcincinnati.com/black-owned-business/page/11/
+2025-10-30 00:34:30,000 - INFO -   ✓ Found 11 new businesses on page 11 (Total: 127)
+2025-10-30 00:34:31,000 - INFO - Scanning page 12: https://thevoiceofblackcincinnati.com/black-owned-business/page/12/
+2025-10-30 00:34:31,887 - INFO -   ✓ Found 11 new businesses on page 12 (Total: 138)
+2025-10-30 00:34:32,887 - INFO - Scanning page 13: https://thevoiceofblackcincinnati.com/black-owned-business/page/13/
+2025-10-30 00:34:34,266 - INFO -   ✓ Found 11 new businesses on page 13 (Total: 149)
+2025-10-30 00:34:35,266 - INFO - Scanning page 14: https://thevoiceofblackcincinnati.com/black-owned-business/page/14/
+2025-10-30 00:34:36,371 - INFO -   ✓ Found 11 new businesses on page 14 (Total: 160)
+2025-10-30 00:34:37,371 - INFO - Scanning page 15: https://thevoiceofblackcincinnati.com/black-owned-business/page/15/
+2025-10-30 00:34:38,207 - INFO -   ✓ Found 11 new businesses on page 15 (Total: 171)
+2025-10-30 00:34:39,207 - INFO - Scanning page 16: https://thevoiceofblackcincinnati.com/black-owned-business/page/16/
+2025-10-30 00:34:40,302 - INFO -   ✓ Found 11 new businesses on page 16 (Total: 182)
+2025-10-30 00:34:41,302 - INFO - Scanning page 17: https://thevoiceofblackcincinnati.com/black-owned-business/page/17/
+2025-10-30 00:34:42,188 - INFO -   ✓ Found 11 new businesses on page 17 (Total: 193)
+2025-10-30 00:34:43,189 - INFO - Scanning page 18: https://thevoiceofblackcincinnati.com/black-owned-business/page/18/
+2025-10-30 00:34:44,281 - INFO -   ✓ Found 11 new businesses on page 18 (Total: 204)
+2025-10-30 00:34:45,282 - INFO - Scanning page 19: https://thevoiceofblackcincinnati.com/black-owned-business/page/19/
+2025-10-30 00:34:46,219 - INFO -   ✓ Found 11 new businesses on page 19 (Total: 215)
+2025-10-30 00:34:47,219 - INFO - Scanning page 20: https://thevoiceofblackcincinnati.com/black-owned-business/page/20/
+2025-10-30 00:34:48,090 - INFO -   ✓ Found 11 new businesses on page 20 (Total: 226)
+2025-10-30 00:34:49,090 - INFO - Scanning page 21: https://thevoiceofblackcincinnati.com/black-owned-business/page/21/
+2025-10-30 00:34:50,006 - INFO -   ✓ Found 14 new businesses on page 21 (Total: 240)
+2025-10-30 00:34:51,006 - INFO - Scanning page 22: https://thevoiceofblackcincinnati.com/black-owned-business/page/22/
+2025-10-30 00:34:52,100 - INFO -   ✓ Found 21 new businesses on page 22 (Total: 261)
+2025-10-30 00:34:53,101 - INFO - Scanning page 23: https://thevoiceofblackcincinnati.com/black-owned-business/page/23/
+2025-10-30 00:34:54,193 - INFO -   ✓ Found 21 new businesses on page 23 (Total: 282)
+2025-10-30 00:34:55,193 - INFO - Scanning page 24: https://thevoiceofblackcincinnati.com/black-owned-business/page/24/
+2025-10-30 00:34:56,128 - INFO -   ✓ Found 21 new businesses on page 24 (Total: 303)
+2025-10-30 00:34:57,128 - INFO - Scanning page 25: https://thevoiceofblackcincinnati.com/black-owned-business/page/25/
+2025-10-30 00:34:58,573 - INFO -   ✓ Found 21 new businesses on page 25 (Total: 324)
+2025-10-30 00:34:59,573 - INFO - Scanning page 26: https://thevoiceofblackcincinnati.com/black-owned-business/page/26/
+2025-10-30 00:35:00,542 - INFO -   ✓ Found 21 new businesses on page 26 (Total: 345)
+2025-10-30 00:35:01,542 - INFO - Scanning page 27: https://thevoiceofblackcincinnati.com/black-owned-business/page/27/
+2025-10-30 00:35:06,357 - INFO -   ✓ Found 21 new businesses on page 27 (Total: 366)
+2025-10-30 00:35:07,358 - INFO - Scanning page 28: https://thevoiceofblackcincinnati.com/black-owned-business/page/28/
+2025-10-30 00:35:08,956 - INFO -   ✓ Found 21 new businesses on page 28 (Total: 387)
+2025-10-30 00:35:09,956 - INFO - Scanning page 29: https://thevoiceofblackcincinnati.com/black-owned-business/page/29/
+2025-10-30 00:35:13,345 - INFO -   ✓ Found 21 new businesses on page 29 (Total: 408)
+2025-10-30 00:35:14,346 - INFO - Scanning page 30: https://thevoiceofblackcincinnati.com/black-owned-business/page/30/
+2025-10-30 00:35:15,189 - INFO -   ✓ Found 21 new businesses on page 30 (Total: 429)
+2025-10-30 00:35:16,190 - INFO - Scanning page 31: https://thevoiceofblackcincinnati.com/black-owned-business/page/31/
+2025-10-30 00:35:17,085 - INFO -   ✓ Found 21 new businesses on page 31 (Total: 450)
+2025-10-30 00:35:18,085 - INFO - Scanning page 32: https://thevoiceofblackcincinnati.com/black-owned-business/page/32/
+2025-10-30 00:35:19,040 - INFO -   ✓ Found 21 new businesses on page 32 (Total: 471)
+2025-10-30 00:35:20,040 - INFO - Scanning page 33: https://thevoiceofblackcincinnati.com/black-owned-business/page/33/
+2025-10-30 00:35:21,033 - INFO -   ✓ Found 21 new businesses on page 33 (Total: 492)
+2025-10-30 00:35:22,034 - INFO - Scanning page 34: https://thevoiceofblackcincinnati.com/black-owned-business/page/34/
+2025-10-30 00:35:22,992 - INFO -   ✓ Found 11 new businesses on page 34 (Total: 503)
+2025-10-30 00:35:23,992 - INFO - Scanning page 35: https://thevoiceofblackcincinnati.com/black-owned-business/page/35/
+2025-10-30 00:35:25,067 - INFO -   ✓ Found 11 new businesses on page 35 (Total: 514)
+2025-10-30 00:35:26,068 - INFO - Scanning page 36: https://thevoiceofblackcincinnati.com/black-owned-business/page/36/
+2025-10-30 00:35:27,563 - INFO -   ✓ Found 11 new businesses on page 36 (Total: 525)
+2025-10-30 00:35:28,563 - INFO - Scanning page 37: https://thevoiceofblackcincinnati.com/black-owned-business/page/37/
+2025-10-30 00:35:29,837 - INFO -   ✓ Found 11 new businesses on page 37 (Total: 536)
+2025-10-30 00:35:30,837 - INFO - Scanning page 38: https://thevoiceofblackcincinnati.com/black-owned-business/page/38/
+2025-10-30 00:35:31,741 - INFO -   ✓ Found 11 new businesses on page 38 (Total: 547)
+2025-10-30 00:35:32,742 - INFO - Scanning page 39: https://thevoiceofblackcincinnati.com/black-owned-business/page/39/
+2025-10-30 00:35:33,665 - INFO -   ✓ Found 11 new businesses on page 39 (Total: 558)
+2025-10-30 00:35:34,665 - INFO - Scanning page 40: https://thevoiceofblackcincinnati.com/black-owned-business/page/40/
+2025-10-30 00:35:35,615 - INFO -   ✓ Found 11 new businesses on page 40 (Total: 569)
+2025-10-30 00:35:36,615 - INFO - Scanning page 41: https://thevoiceofblackcincinnati.com/black-owned-business/page/41/
+2025-10-30 00:35:37,489 - INFO -   ✓ Found 12 new businesses on page 41 (Total: 581)
+2025-10-30 00:35:38,489 - INFO - Scanning page 42: https://thevoiceofblackcincinnati.com/black-owned-business/page/42/
+2025-10-30 00:35:39,361 - INFO -   ✓ Found 11 new businesses on page 42 (Total: 592)
+2025-10-30 00:35:40,361 - INFO - Scanning page 43: https://thevoiceofblackcincinnati.com/black-owned-business/page/43/
+2025-10-30 00:35:41,321 - INFO -   ✓ Found 11 new businesses on page 43 (Total: 603)
+2025-10-30 00:35:42,321 - INFO - Scanning page 44: https://thevoiceofblackcincinnati.com/black-owned-business/page/44/
+2025-10-30 00:35:43,252 - INFO -   ✓ Found 11 new businesses on page 44 (Total: 614)
+2025-10-30 00:35:44,252 - INFO - Scanning page 45: https://thevoiceofblackcincinnati.com/black-owned-business/page/45/
+2025-10-30 00:35:45,363 - INFO -   ✓ Found 11 new businesses on page 45 (Total: 625)
+2025-10-30 00:35:46,363 - INFO - Scanning page 46: https://thevoiceofblackcincinnati.com/black-owned-business/page/46/
+2025-10-30 00:35:47,305 - INFO -   ✓ Found 11 new businesses on page 46 (Total: 636)
+2025-10-30 00:35:48,305 - INFO - Scanning page 47: https://thevoiceofblackcincinnati.com/black-owned-business/page/47/
+2025-10-30 00:35:49,312 - INFO -   ✓ Found 1 new businesses on page 47 (Total: 637)
+2025-10-30 00:35:50,312 - INFO - Scanning page 48: https://thevoiceofblackcincinnati.com/black-owned-business/page/48/
+2025-10-30 00:35:51,278 - INFO - Page 48 returned 404 - reached end of pagination
+2025-10-30 00:35:51,278 - INFO - ✓ Total unique business links collected: 637
+2025-10-30 00:36:04,157 - INFO - Scanning page 1: https://thevoiceofblackcincinnati.com/black-owned-business/
+2025-10-30 00:36:05,285 - INFO -   ✓ Found 11 new businesses on page 1 (Total: 11)
+2025-10-30 00:36:06,285 - INFO - Scanning page 2: https://thevoiceofblackcincinnati.com/black-owned-business/page/2/
+2025-10-30 00:36:07,405 - INFO -   ✓ Found 12 new businesses on page 2 (Total: 23)
+2025-10-30 00:36:08,406 - INFO - Scanning page 3: https://thevoiceofblackcincinnati.com/black-owned-business/page/3/
+2025-10-30 00:36:09,347 - INFO -   ✓ Found 11 new businesses on page 3 (Total: 34)
+2025-10-30 00:36:10,348 - INFO - Scanning page 4: https://thevoiceofblackcincinnati.com/black-owned-business/page/4/
+2025-10-30 00:36:11,513 - INFO -   ✓ Found 11 new businesses on page 4 (Total: 45)
+2025-10-30 00:36:12,513 - INFO - Scanning page 5: https://thevoiceofblackcincinnati.com/black-owned-business/page/5/
+2025-10-30 00:36:13,454 - INFO -   ✓ Found 11 new businesses on page 5 (Total: 56)
+2025-10-30 00:36:14,454 - INFO - Scanning page 6: https://thevoiceofblackcincinnati.com/black-owned-business/page/6/
+2025-10-30 00:36:15,693 - INFO -   ✓ Found 11 new businesses on page 6 (Total: 67)
+2025-10-30 00:36:16,693 - INFO - Scanning page 7: https://thevoiceofblackcincinnati.com/black-owned-business/page/7/
+2025-10-30 00:36:17,599 - INFO -   ✓ Found 11 new businesses on page 7 (Total: 78)
+2025-10-30 00:36:18,599 - INFO - Scanning page 8: https://thevoiceofblackcincinnati.com/black-owned-business/page/8/
+2025-10-30 00:36:19,494 - INFO -   ✓ Found 11 new businesses on page 8 (Total: 89)
+2025-10-30 00:36:20,494 - INFO - Scanning page 9: https://thevoiceofblackcincinnati.com/black-owned-business/page/9/
+2025-10-30 00:36:21,572 - INFO -   ✓ Found 11 new businesses on page 9 (Total: 100)
+2025-10-30 00:36:22,572 - INFO - Scanning page 10: https://thevoiceofblackcincinnati.com/black-owned-business/page/10/
+2025-10-30 00:36:23,579 - INFO -   ✓ Found 16 new businesses on page 10 (Total: 116)
+2025-10-30 00:36:24,579 - INFO - Scanning page 11: https://thevoiceofblackcincinnati.com/black-owned-business/page/11/
+2025-10-30 00:36:25,663 - INFO -   ✓ Found 11 new businesses on page 11 (Total: 127)
+2025-10-30 00:36:26,664 - INFO - Scanning page 12: https://thevoiceofblackcincinnati.com/black-owned-business/page/12/
+2025-10-30 00:36:27,640 - INFO -   ✓ Found 11 new businesses on page 12 (Total: 138)
+2025-10-30 00:36:28,640 - INFO - Scanning page 13: https://thevoiceofblackcincinnati.com/black-owned-business/page/13/
+2025-10-30 00:36:29,731 - INFO -   ✓ Found 11 new businesses on page 13 (Total: 149)
+2025-10-30 00:36:30,731 - INFO - Scanning page 14: https://thevoiceofblackcincinnati.com/black-owned-business/page/14/
+2025-10-30 00:36:31,765 - INFO -   ✓ Found 11 new businesses on page 14 (Total: 160)
+2025-10-30 00:36:32,765 - INFO - Scanning page 15: https://thevoiceofblackcincinnati.com/black-owned-business/page/15/
+2025-10-30 00:36:33,692 - INFO -   ✓ Found 11 new businesses on page 15 (Total: 171)
+2025-10-30 00:36:34,692 - INFO - Scanning page 16: https://thevoiceofblackcincinnati.com/black-owned-business/page/16/
+2025-10-30 00:36:35,697 - INFO -   ✓ Found 11 new businesses on page 16 (Total: 182)
+2025-10-30 00:36:36,697 - INFO - Scanning page 17: https://thevoiceofblackcincinnati.com/black-owned-business/page/17/
+2025-10-30 00:36:37,583 - INFO -   ✓ Found 11 new businesses on page 17 (Total: 193)
+2025-10-30 00:36:38,583 - INFO - Scanning page 18: https://thevoiceofblackcincinnati.com/black-owned-business/page/18/
+2025-10-30 00:36:39,574 - INFO -   ✓ Found 11 new businesses on page 18 (Total: 204)
+2025-10-30 00:36:40,575 - INFO - Scanning page 19: https://thevoiceofblackcincinnati.com/black-owned-business/page/19/
+2025-10-30 00:36:41,504 - INFO -   ✓ Found 11 new businesses on page 19 (Total: 215)
+2025-10-30 00:36:42,504 - INFO - Scanning page 20: https://thevoiceofblackcincinnati.com/black-owned-business/page/20/
+2025-10-30 00:36:43,507 - INFO -   ✓ Found 11 new businesses on page 20 (Total: 226)
+2025-10-30 00:36:44,507 - INFO - Scanning page 21: https://thevoiceofblackcincinnati.com/black-owned-business/page/21/
+2025-10-30 00:36:45,444 - INFO -   ✓ Found 14 new businesses on page 21 (Total: 240)
+2025-10-30 00:36:46,444 - INFO - Scanning page 22: https://thevoiceofblackcincinnati.com/black-owned-business/page/22/
+2025-10-30 00:36:47,867 - INFO -   ✓ Found 21 new businesses on page 22 (Total: 261)
+2025-10-30 00:36:48,867 - INFO - Scanning page 23: https://thevoiceofblackcincinnati.com/black-owned-business/page/23/
+2025-10-30 00:36:49,994 - INFO -   ✓ Found 21 new businesses on page 23 (Total: 282)
+2025-10-30 00:36:50,994 - INFO - Scanning page 24: https://thevoiceofblackcincinnati.com/black-owned-business/page/24/
+2025-10-30 00:36:51,909 - INFO -   ✓ Found 21 new businesses on page 24 (Total: 303)
+2025-10-30 00:36:52,909 - INFO - Scanning page 25: https://thevoiceofblackcincinnati.com/black-owned-business/page/25/
+2025-10-30 00:36:53,744 - INFO -   ✓ Found 21 new businesses on page 25 (Total: 324)
+2025-10-30 00:36:54,744 - INFO - Scanning page 26: https://thevoiceofblackcincinnati.com/black-owned-business/page/26/
+2025-10-30 00:36:55,717 - INFO -   ✓ Found 21 new businesses on page 26 (Total: 345)
+2025-10-30 00:36:56,718 - INFO - Scanning page 27: https://thevoiceofblackcincinnati.com/black-owned-business/page/27/
+2025-10-30 00:36:57,556 - INFO -   ✓ Found 21 new businesses on page 27 (Total: 366)
+2025-10-30 00:36:58,556 - INFO - Scanning page 28: https://thevoiceofblackcincinnati.com/black-owned-business/page/28/
+2025-10-30 00:36:59,418 - INFO -   ✓ Found 21 new businesses on page 28 (Total: 387)
+2025-10-30 00:37:00,418 - INFO - Scanning page 29: https://thevoiceofblackcincinnati.com/black-owned-business/page/29/
+2025-10-30 00:37:01,312 - INFO -   ✓ Found 21 new businesses on page 29 (Total: 408)
+2025-10-30 00:37:02,312 - INFO - Scanning page 30: https://thevoiceofblackcincinnati.com/black-owned-business/page/30/
+2025-10-30 00:37:03,429 - INFO -   ✓ Found 21 new businesses on page 30 (Total: 429)
+2025-10-30 00:37:04,429 - INFO - Scanning page 31: https://thevoiceofblackcincinnati.com/black-owned-business/page/31/
+2025-10-30 00:37:05,431 - INFO -   ✓ Found 21 new businesses on page 31 (Total: 450)
+2025-10-30 00:37:06,431 - INFO - Scanning page 32: https://thevoiceofblackcincinnati.com/black-owned-business/page/32/
+2025-10-30 00:37:07,288 - INFO -   ✓ Found 21 new businesses on page 32 (Total: 471)
+2025-10-30 00:37:08,288 - INFO - Scanning page 33: https://thevoiceofblackcincinnati.com/black-owned-business/page/33/
+2025-10-30 00:37:09,609 - INFO -   ✓ Found 21 new businesses on page 33 (Total: 492)
+2025-10-30 00:37:10,609 - INFO - Scanning page 34: https://thevoiceofblackcincinnati.com/black-owned-business/page/34/
+2025-10-30 00:37:13,086 - INFO -   ✓ Found 11 new businesses on page 34 (Total: 503)
+2025-10-30 00:37:14,086 - INFO - Scanning page 35: https://thevoiceofblackcincinnati.com/black-owned-business/page/35/
+2025-10-30 00:37:15,007 - INFO -   ✓ Found 11 new businesses on page 35 (Total: 514)
+2025-10-30 00:37:16,007 - INFO - Scanning page 36: https://thevoiceofblackcincinnati.com/black-owned-business/page/36/
+2025-10-30 00:37:16,976 - INFO -   ✓ Found 11 new businesses on page 36 (Total: 525)
+2025-10-30 00:37:17,977 - INFO - Scanning page 37: https://thevoiceofblackcincinnati.com/black-owned-business/page/37/
+2025-10-30 00:37:19,033 - INFO -   ✓ Found 11 new businesses on page 37 (Total: 536)
+2025-10-30 00:37:20,034 - INFO - Scanning page 38: https://thevoiceofblackcincinnati.com/black-owned-business/page/38/
+2025-10-30 00:37:20,999 - INFO -   ✓ Found 11 new businesses on page 38 (Total: 547)
+2025-10-30 00:37:22,000 - INFO - Scanning page 39: https://thevoiceofblackcincinnati.com/black-owned-business/page/39/
+2025-10-30 00:37:22,895 - INFO -   ✓ Found 11 new businesses on page 39 (Total: 558)
+2025-10-30 00:37:23,895 - INFO - Scanning page 40: https://thevoiceofblackcincinnati.com/black-owned-business/page/40/
+2025-10-30 00:37:24,924 - INFO -   ✓ Found 11 new businesses on page 40 (Total: 569)
+2025-10-30 00:37:25,924 - INFO - Scanning page 41: https://thevoiceofblackcincinnati.com/black-owned-business/page/41/
+2025-10-30 00:37:26,818 - INFO -   ✓ Found 12 new businesses on page 41 (Total: 581)
+2025-10-30 00:37:27,818 - INFO - Scanning page 42: https://thevoiceofblackcincinnati.com/black-owned-business/page/42/
+2025-10-30 00:37:28,914 - INFO -   ✓ Found 11 new businesses on page 42 (Total: 592)
+2025-10-30 00:37:29,914 - INFO - Scanning page 43: https://thevoiceofblackcincinnati.com/black-owned-business/page/43/
+2025-10-30 00:37:30,871 - INFO -   ✓ Found 11 new businesses on page 43 (Total: 603)
+2025-10-30 00:37:31,872 - INFO - Scanning page 44: https://thevoiceofblackcincinnati.com/black-owned-business/page/44/
+2025-10-30 00:37:32,816 - INFO -   ✓ Found 11 new businesses on page 44 (Total: 614)
+2025-10-30 00:37:33,816 - INFO - Scanning page 45: https://thevoiceofblackcincinnati.com/black-owned-business/page/45/
+2025-10-30 00:37:34,657 - INFO -   ✓ Found 11 new businesses on page 45 (Total: 625)
+2025-10-30 00:37:35,658 - INFO - Scanning page 46: https://thevoiceofblackcincinnati.com/black-owned-business/page/46/
+2025-10-30 00:37:36,545 - INFO -   ✓ Found 11 new businesses on page 46 (Total: 636)
+2025-10-30 00:37:37,545 - INFO - Scanning page 47: https://thevoiceofblackcincinnati.com/black-owned-business/page/47/
+2025-10-30 00:37:38,547 - INFO -   ✓ Found 1 new businesses on page 47 (Total: 637)
+2025-10-30 00:37:39,547 - INFO - Scanning page 48: https://thevoiceofblackcincinnati.com/black-owned-business/page/48/
+2025-10-30 00:37:39,580 - INFO - Page 48 returned 404 - reached end of pagination
+2025-10-30 00:37:39,581 - INFO - ✓ Total unique business links collected: 637
+2025-10-30 00:38:03,258 - INFO - 💾 Progress saved: 8 businesses
+2025-10-30 00:38:29,095 - INFO - 💾 Progress saved: 16 businesses
+2025-10-30 00:38:54,551 - INFO - 💾 Progress saved: 23 businesses
+2025-10-30 00:39:21,649 - INFO - 💾 Progress saved: 32 businesses
+2025-10-30 00:39:47,332 - INFO - 💾 Progress saved: 40 businesses
+2025-10-30 00:40:16,647 - INFO - 💾 Progress saved: 49 businesses
+2025-10-30 00:40:42,472 - INFO - 💾 Progress saved: 57 businesses
+2025-10-30 00:41:08,892 - INFO - 💾 Progress saved: 66 businesses
+2025-10-30 00:41:37,280 - INFO - 💾 Progress saved: 74 businesses
+2025-10-30 00:42:03,725 - INFO - 💾 Progress saved: 83 businesses
+2025-10-30 00:42:31,694 - INFO - 💾 Progress saved: 90 businesses
+2025-10-30 00:42:57,283 - INFO - 💾 Progress saved: 96 businesses
+2025-10-30 00:43:25,022 - INFO - 💾 Progress saved: 104 businesses
+2025-10-30 00:43:51,043 - INFO - 💾 Progress saved: 112 businesses
+2025-10-30 00:44:16,245 - INFO - 💾 Progress saved: 119 businesses
+2025-10-30 00:44:41,625 - INFO - 💾 Progress saved: 126 businesses
+2025-10-30 00:45:09,613 - INFO - 💾 Progress saved: 134 businesses
+2025-10-30 00:45:35,726 - INFO - 💾 Progress saved: 142 businesses
+2025-10-30 00:46:01,456 - INFO - 💾 Progress saved: 149 businesses
+2025-10-30 00:46:28,695 - INFO - 💾 Progress saved: 155 businesses
+2025-10-30 00:46:55,426 - INFO - 💾 Progress saved: 162 businesses
+2025-10-30 00:47:20,843 - INFO - 💾 Progress saved: 171 businesses
+2025-10-30 00:47:47,625 - INFO - 💾 Progress saved: 179 businesses
+2025-10-30 00:48:15,264 - INFO - 💾 Progress saved: 187 businesses
+2025-10-30 00:48:41,117 - INFO - 💾 Progress saved: 195 businesses
+2025-10-30 00:49:08,331 - INFO - 💾 Progress saved: 204 businesses
+2025-10-30 00:49:33,907 - INFO - 💾 Progress saved: 210 businesses
+2025-10-30 00:49:59,087 - INFO - 💾 Progress saved: 218 businesses
+2025-10-30 00:50:30,060 - INFO - 💾 Progress saved: 225 businesses
+2025-10-30 00:50:57,056 - INFO - 💾 Progress saved: 234 businesses
+2025-10-30 00:51:26,222 - INFO - 💾 Progress saved: 240 businesses
+2025-10-30 00:51:54,236 - INFO - 💾 Progress saved: 247 businesses
+2025-10-30 00:52:21,955 - INFO - 💾 Progress saved: 256 businesses
+2025-10-30 00:52:50,908 - INFO - 💾 Progress saved: 264 businesses
+2025-10-30 00:53:19,151 - INFO - 💾 Progress saved: 273 businesses
+2025-10-30 00:53:49,459 - INFO - 💾 Progress saved: 282 businesses
+2025-10-30 00:54:15,871 - INFO - 💾 Progress saved: 288 businesses
+2025-10-30 00:54:41,617 - INFO - 💾 Progress saved: 297 businesses
+2025-10-30 00:55:08,310 - INFO - 💾 Progress saved: 298 businesses
+2025-10-30 00:55:35,180 - INFO - 💾 Progress saved: 298 businesses
+2025-10-30 00:55:59,997 - INFO - 💾 Progress saved: 298 businesses
+2025-10-30 00:56:25,118 - INFO - 💾 Progress saved: 298 businesses
+2025-10-30 00:56:54,751 - INFO - 💾 Progress saved: 301 businesses
+2025-10-30 00:57:20,418 - INFO - 💾 Progress saved: 309 businesses
+2025-10-30 00:57:45,809 - INFO - 💾 Progress saved: 318 businesses
+2025-10-30 00:58:11,794 - INFO - 💾 Progress saved: 325 businesses
+2025-10-30 00:58:38,054 - INFO - 💾 Progress saved: 333 businesses
+2025-10-30 00:59:03,620 - INFO - 💾 Progress saved: 340 businesses
+2025-10-30 00:59:29,274 - INFO - 💾 Progress saved: 347 businesses
+2025-10-30 00:59:56,589 - INFO - 💾 Progress saved: 355 businesses
+2025-10-30 01:00:34,841 - INFO - 💾 Progress saved: 364 businesses
+2025-10-30 01:01:05,627 - INFO - 💾 Progress saved: 372 businesses
+2025-10-30 01:01:32,614 - INFO - 💾 Progress saved: 379 businesses
+2025-10-30 01:02:00,295 - INFO - 💾 Progress saved: 388 businesses
+2025-10-30 01:02:26,177 - INFO - 💾 Progress saved: 396 businesses
+2025-10-30 01:02:53,263 - INFO - 💾 Progress saved: 403 businesses
+2025-10-30 01:03:20,146 - INFO - 💾 Progress saved: 410 businesses
+2025-10-30 01:03:48,291 - INFO - 💾 Progress saved: 419 businesses
+2025-10-30 01:04:15,287 - INFO - 💾 Progress saved: 425 businesses
+2025-10-30 01:04:49,498 - INFO - 💾 Progress saved: 432 businesses
+2025-10-30 01:05:32,312 - INFO - 💾 Progress saved: 439 businesses
+2025-10-30 01:06:06,527 - INFO - 💾 Progress saved: 446 businesses
+2025-10-30 01:06:40,947 - INFO - 💾 Progress saved: 453 businesses
+2025-10-30 01:07:04,396 - INFO - 📊 Final save: 460 businesses to black_owned_businesses_complete_20251030_003604.xlsx

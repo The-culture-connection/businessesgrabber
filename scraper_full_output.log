@@ -1,0 +1,832 @@
+2025-10-30 00:36:04,157 - INFO - Scanning page 1: https://thevoiceofblackcincinnati.com/black-owned-business/
+2025-10-30 00:36:05,285 - INFO -   ✓ Found 11 new businesses on page 1 (Total: 11)
+2025-10-30 00:36:06,285 - INFO - Scanning page 2: https://thevoiceofblackcincinnati.com/black-owned-business/page/2/
+2025-10-30 00:36:07,405 - INFO -   ✓ Found 12 new businesses on page 2 (Total: 23)
+2025-10-30 00:36:08,406 - INFO - Scanning page 3: https://thevoiceofblackcincinnati.com/black-owned-business/page/3/
+2025-10-30 00:36:09,347 - INFO -   ✓ Found 11 new businesses on page 3 (Total: 34)
+2025-10-30 00:36:10,348 - INFO - Scanning page 4: https://thevoiceofblackcincinnati.com/black-owned-business/page/4/
+2025-10-30 00:36:11,513 - INFO -   ✓ Found 11 new businesses on page 4 (Total: 45)
+2025-10-30 00:36:12,513 - INFO - Scanning page 5: https://thevoiceofblackcincinnati.com/black-owned-business/page/5/
+2025-10-30 00:36:13,454 - INFO -   ✓ Found 11 new businesses on page 5 (Total: 56)
+2025-10-30 00:36:14,454 - INFO - Scanning page 6: https://thevoiceofblackcincinnati.com/black-owned-business/page/6/
+2025-10-30 00:36:15,693 - INFO -   ✓ Found 11 new businesses on page 6 (Total: 67)
+2025-10-30 00:36:16,693 - INFO - Scanning page 7: https://thevoiceofblackcincinnati.com/black-owned-business/page/7/
+2025-10-30 00:36:17,599 - INFO -   ✓ Found 11 new businesses on page 7 (Total: 78)
+2025-10-30 00:36:18,599 - INFO - Scanning page 8: https://thevoiceofblackcincinnati.com/black-owned-business/page/8/
+2025-10-30 00:36:19,494 - INFO -   ✓ Found 11 new businesses on page 8 (Total: 89)
+2025-10-30 00:36:20,494 - INFO - Scanning page 9: https://thevoiceofblackcincinnati.com/black-owned-business/page/9/
+2025-10-30 00:36:21,572 - INFO -   ✓ Found 11 new businesses on page 9 (Total: 100)
+2025-10-30 00:36:22,572 - INFO - Scanning page 10: https://thevoiceofblackcincinnati.com/black-owned-business/page/10/
+2025-10-30 00:36:23,579 - INFO -   ✓ Found 16 new businesses on page 10 (Total: 116)
+2025-10-30 00:36:24,579 - INFO - Scanning page 11: https://thevoiceofblackcincinnati.com/black-owned-business/page/11/
+2025-10-30 00:36:25,663 - INFO -   ✓ Found 11 new businesses on page 11 (Total: 127)
+2025-10-30 00:36:26,664 - INFO - Scanning page 12: https://thevoiceofblackcincinnati.com/black-owned-business/page/12/
+2025-10-30 00:36:27,640 - INFO -   ✓ Found 11 new businesses on page 12 (Total: 138)
+2025-10-30 00:36:28,640 - INFO - Scanning page 13: https://thevoiceofblackcincinnati.com/black-owned-business/page/13/
+2025-10-30 00:36:29,731 - INFO -   ✓ Found 11 new businesses on page 13 (Total: 149)
+2025-10-30 00:36:30,731 - INFO - Scanning page 14: https://thevoiceofblackcincinnati.com/black-owned-business/page/14/
+2025-10-30 00:36:31,765 - INFO -   ✓ Found 11 new businesses on page 14 (Total: 160)
+2025-10-30 00:36:32,765 - INFO - Scanning page 15: https://thevoiceofblackcincinnati.com/black-owned-business/page/15/
+2025-10-30 00:36:33,692 - INFO -   ✓ Found 11 new businesses on page 15 (Total: 171)
+2025-10-30 00:36:34,692 - INFO - Scanning page 16: https://thevoiceofblackcincinnati.com/black-owned-business/page/16/
+2025-10-30 00:36:35,697 - INFO -   ✓ Found 11 new businesses on page 16 (Total: 182)
+2025-10-30 00:36:36,697 - INFO - Scanning page 17: https://thevoiceofblackcincinnati.com/black-owned-business/page/17/
+2025-10-30 00:36:37,583 - INFO -   ✓ Found 11 new businesses on page 17 (Total: 193)
+2025-10-30 00:36:38,583 - INFO - Scanning page 18: https://thevoiceofblackcincinnati.com/black-owned-business/page/18/
+2025-10-30 00:36:39,574 - INFO -   ✓ Found 11 new businesses on page 18 (Total: 204)
+2025-10-30 00:36:40,575 - INFO - Scanning page 19: https://thevoiceofblackcincinnati.com/black-owned-business/page/19/
+2025-10-30 00:36:41,504 - INFO -   ✓ Found 11 new businesses on page 19 (Total: 215)
+2025-10-30 00:36:42,504 - INFO - Scanning page 20: https://thevoiceofblackcincinnati.com/black-owned-business/page/20/
+2025-10-30 00:36:43,507 - INFO -   ✓ Found 11 new businesses on page 20 (Total: 226)
+2025-10-30 00:36:44,507 - INFO - Scanning page 21: https://thevoiceofblackcincinnati.com/black-owned-business/page/21/
+2025-10-30 00:36:45,444 - INFO -   ✓ Found 14 new businesses on page 21 (Total: 240)
+2025-10-30 00:36:46,444 - INFO - Scanning page 22: https://thevoiceofblackcincinnati.com/black-owned-business/page/22/
+2025-10-30 00:36:47,867 - INFO -   ✓ Found 21 new businesses on page 22 (Total: 261)
+2025-10-30 00:36:48,867 - INFO - Scanning page 23: https://thevoiceofblackcincinnati.com/black-owned-business/page/23/
+2025-10-30 00:36:49,994 - INFO -   ✓ Found 21 new businesses on page 23 (Total: 282)
+2025-10-30 00:36:50,994 - INFO - Scanning page 24: https://thevoiceofblackcincinnati.com/black-owned-business/page/24/
+2025-10-30 00:36:51,909 - INFO -   ✓ Found 21 new businesses on page 24 (Total: 303)
+2025-10-30 00:36:52,909 - INFO - Scanning page 25: https://thevoiceofblackcincinnati.com/black-owned-business/page/25/
+2025-10-30 00:36:53,744 - INFO -   ✓ Found 21 new businesses on page 25 (Total: 324)
+2025-10-30 00:36:54,744 - INFO - Scanning page 26: https://thevoiceofblackcincinnati.com/black-owned-business/page/26/
+2025-10-30 00:36:55,717 - INFO -   ✓ Found 21 new businesses on page 26 (Total: 345)
+2025-10-30 00:36:56,718 - INFO - Scanning page 27: https://thevoiceofblackcincinnati.com/black-owned-business/page/27/
+2025-10-30 00:36:57,556 - INFO -   ✓ Found 21 new businesses on page 27 (Total: 366)
+2025-10-30 00:36:58,556 - INFO - Scanning page 28: https://thevoiceofblackcincinnati.com/black-owned-business/page/28/
+2025-10-30 00:36:59,418 - INFO -   ✓ Found 21 new businesses on page 28 (Total: 387)
+2025-10-30 00:37:00,418 - INFO - Scanning page 29: https://thevoiceofblackcincinnati.com/black-owned-business/page/29/
+2025-10-30 00:37:01,312 - INFO -   ✓ Found 21 new businesses on page 29 (Total: 408)
+2025-10-30 00:37:02,312 - INFO - Scanning page 30: https://thevoiceofblackcincinnati.com/black-owned-business/page/30/
+2025-10-30 00:37:03,429 - INFO -   ✓ Found 21 new businesses on page 30 (Total: 429)
+2025-10-30 00:37:04,429 - INFO - Scanning page 31: https://thevoiceofblackcincinnati.com/black-owned-business/page/31/
+2025-10-30 00:37:05,431 - INFO -   ✓ Found 21 new businesses on page 31 (Total: 450)
+2025-10-30 00:37:06,431 - INFO - Scanning page 32: https://thevoiceofblackcincinnati.com/black-owned-business/page/32/
+2025-10-30 00:37:07,288 - INFO -   ✓ Found 21 new businesses on page 32 (Total: 471)
+2025-10-30 00:37:08,288 - INFO - Scanning page 33: https://thevoiceofblackcincinnati.com/black-owned-business/page/33/
+2025-10-30 00:37:09,609 - INFO -   ✓ Found 21 new businesses on page 33 (Total: 492)
+2025-10-30 00:37:10,609 - INFO - Scanning page 34: https://thevoiceofblackcincinnati.com/black-owned-business/page/34/
+2025-10-30 00:37:13,086 - INFO -   ✓ Found 11 new businesses on page 34 (Total: 503)
+2025-10-30 00:37:14,086 - INFO - Scanning page 35: https://thevoiceofblackcincinnati.com/black-owned-business/page/35/
+2025-10-30 00:37:15,007 - INFO -   ✓ Found 11 new businesses on page 35 (Total: 514)
+2025-10-30 00:37:16,007 - INFO - Scanning page 36: https://thevoiceofblackcincinnati.com/black-owned-business/page/36/
+2025-10-30 00:37:16,976 - INFO -   ✓ Found 11 new businesses on page 36 (Total: 525)
+2025-10-30 00:37:17,977 - INFO - Scanning page 37: https://thevoiceofblackcincinnati.com/black-owned-business/page/37/
+2025-10-30 00:37:19,033 - INFO -   ✓ Found 11 new businesses on page 37 (Total: 536)
+2025-10-30 00:37:20,034 - INFO - Scanning page 38: https://thevoiceofblackcincinnati.com/black-owned-business/page/38/
+2025-10-30 00:37:20,999 - INFO -   ✓ Found 11 new businesses on page 38 (Total: 547)
+2025-10-30 00:37:22,000 - INFO - Scanning page 39: https://thevoiceofblackcincinnati.com/black-owned-business/page/39/
+2025-10-30 00:37:22,895 - INFO -   ✓ Found 11 new businesses on page 39 (Total: 558)
+2025-10-30 00:37:23,895 - INFO - Scanning page 40: https://thevoiceofblackcincinnati.com/black-owned-business/page/40/
+2025-10-30 00:37:24,924 - INFO -   ✓ Found 11 new businesses on page 40 (Total: 569)
+2025-10-30 00:37:25,924 - INFO - Scanning page 41: https://thevoiceofblackcincinnati.com/black-owned-business/page/41/
+2025-10-30 00:37:26,818 - INFO -   ✓ Found 12 new businesses on page 41 (Total: 581)
+2025-10-30 00:37:27,818 - INFO - Scanning page 42: https://thevoiceofblackcincinnati.com/black-owned-business/page/42/
+2025-10-30 00:37:28,914 - INFO -   ✓ Found 11 new businesses on page 42 (Total: 592)
+2025-10-30 00:37:29,914 - INFO - Scanning page 43: https://thevoiceofblackcincinnati.com/black-owned-business/page/43/
+2025-10-30 00:37:30,871 - INFO -   ✓ Found 11 new businesses on page 43 (Total: 603)
+2025-10-30 00:37:31,872 - INFO - Scanning page 44: https://thevoiceofblackcincinnati.com/black-owned-business/page/44/
+2025-10-30 00:37:32,816 - INFO -   ✓ Found 11 new businesses on page 44 (Total: 614)
+2025-10-30 00:37:33,816 - INFO - Scanning page 45: https://thevoiceofblackcincinnati.com/black-owned-business/page/45/
+2025-10-30 00:37:34,657 - INFO -   ✓ Found 11 new businesses on page 45 (Total: 625)
+2025-10-30 00:37:35,658 - INFO - Scanning page 46: https://thevoiceofblackcincinnati.com/black-owned-business/page/46/
+2025-10-30 00:37:36,545 - INFO -   ✓ Found 11 new businesses on page 46 (Total: 636)
+2025-10-30 00:37:37,545 - INFO - Scanning page 47: https://thevoiceofblackcincinnati.com/black-owned-business/page/47/
+2025-10-30 00:37:38,547 - INFO -   ✓ Found 1 new businesses on page 47 (Total: 637)
+2025-10-30 00:37:39,547 - INFO - Scanning page 48: https://thevoiceofblackcincinnati.com/black-owned-business/page/48/
+2025-10-30 00:37:39,580 - INFO - Page 48 returned 404 - reached end of pagination
+2025-10-30 00:37:39,581 - INFO - ✓ Total unique business links collected: 637
+
+================================================================================
+               BLACK-OWNED CINCINNATI BUSINESSES - SCRAPER
+================================================================================
+Target URL: https://thevoiceofblackcincinnati.com/black-owned-business/
+Output File: black_owned_businesses_complete_20251030_003604.xlsx
+================================================================================
+
+STEP 1: Finding all business links via pagination...
+--------------------------------------------------------------------------------
+
+✓ Found 637 business links
+
+STEP 2: Scraping details for each business...
+--------------------------------------------------------------------------------
+Progress is saved every 10 businesses.
+
+[  1/637] Black Owned Business... ✓ Archives:Businesses
+[  2/637] 1 Smokin Ash Hole... ✓ 1 Smokin Ash Hole
+[  3/637] 6 N The Mornin... ✓ 6 'N The Mornin'
+[  4/637] A Better You Counseling... ✓ A Better You Counseling
+[  5/637] A Better You Counseling... ✓ A Better You Counseling
+[  6/637] A Crystal Mind Mental Health... ✓ A Crystal Mind
+[  7/637] A Lowe Creative Photography... ✓ A. Lowe Creative Photography
+[  8/637] A Mirage Beauty Salon... ✓ A Mirage Beauty Salon
+[  9/637] A Mirage Beauty Salon... ✓ A Mirage Beauty Salon
+[ 10/637] A Mothers Touch Cakes... 2025-10-30 00:38:03,258 - INFO - 💾 Progress saved: 8 businesses
+✓ A Mother's Touch Cakes
+[ 11/637] A Mothers Touch Cakes... ✓ A Mother's Touch Cakes
+[ 12/637] A Place 4 Seniors... ✓ A Place 4 Seniors
+[ 13/637] A R T Art Resource Team... ✓ A.R.T. Art Resource Team
+[ 14/637] A Sound Mind Counseling... ✓ A Sound Mind Counseling
+[ 15/637] A Touch Of Class Cleaning... ✓ A Touch of Class Cleaning
+[ 16/637] Abel Building Systems... ✓ ABEL Commercial Building Systems
+[ 17/637] Abel Building Systems... ✓ ABEL Commercial Building Systems
+[ 18/637] Abiona Hair Design... ✓ Abiona Hair Design
+[ 19/637] Acuity Services... ✓ Acuity Services LLC
+[ 20/637] Adanech Corporation... 2025-10-30 00:38:29,095 - INFO - 💾 Progress saved: 16 businesses
+✓ Adanech Corporation In-Home Care Agency
+[ 21/637] Adriennes Love Full Spectrum Doula Support... ✓ Adrienne’s Love: Full-Spectrum Doula Sup
+[ 22/637] Adriennes Love Full Spectrum Doula Support... ✓ Adrienne’s Love: Full-Spectrum Doula Sup
+[ 23/637] Advanced Mechanical Insulators... ✓ Advanced Mechanical Insulators
+[ 24/637] Afromeals Cooking Classes And Catering... ✓ Afromeals Cooking Classes and Catering
+[ 25/637] Afromeals Cooking Classes And Catering... ✓ Afromeals Cooking Classes and Catering
+[ 26/637] Ahbads Lawn Care Service... ✓ Ahbad's Lawn Care Service
+[ 27/637] Ajs Cheesesteaks... ✓ AJ's Cheesesteaks
+[ 28/637] Alabama Que Bbq Restaurant And Catering... ✓ Alabama Que BBQ Restaurant and Catering
+[ 29/637] All About The Ahh Massage... ✓ All About the Ahh Massage
+[ 30/637] All About The Ahh Massage... 2025-10-30 00:38:54,551 - INFO - 💾 Progress saved: 23 businesses
+✓ All About the Ahh Massage
+[ 31/637] Alleylaidit... ✓ Alleylaidit Nails
+[ 32/637] Almost Vgan Lounge... ✓ Almost V'Gan Lounge
+[ 33/637] Altev Community Pharmacy... ✓ Altev Community Pharmacy
+[ 34/637] American Compassionate Care... ✓ American Compassionate Care
+[ 35/637] Amw Group... ✓ AMW Group
+[ 36/637] Arabesque Dance Academy... ✓ Arabesque Dance Academy
+[ 37/637] Arabesque Dance Academy... ✓ Arabesque Dance Academy
+[ 38/637] Arch Realty... ✓ Arch Realty
+[ 39/637] Art By Autumn M... ✓ Art By Autumn M.
+[ 40/637] Art Of Fitness... 2025-10-30 00:39:21,649 - INFO - 💾 Progress saved: 32 businesses
+✓ Art of Fitness
+[ 41/637] Art Of Fitness... ✓ Art of Fitness
+[ 42/637] Arthur W Harmon Jr Attorney At Law... ✓ Arthur W. Harmon, Jr. Attorney at Law
+[ 43/637] Artistry By Ronnie... ✓ Artistry by Ronnie
+[ 44/637] Artistry By Ronnie... ✓ Artistry by Ronnie
+[ 45/637] Ase Holistic Health Service School... ✓ Asé Holistic Health Service
+[ 46/637] Assist Financial Group Llc... ✓ Assist Financial Group
+[ 47/637] Atmos 360 Manufacturing... ✓ ATMOS 360 Manufacturing
+[ 48/637] Avi Luxe Events... ✓ Avi Luxe Event Planning
+[ 49/637] Awa Business Corporation... ✓ AWA Business Corporation
+[ 50/637] Axiom Flooring Enterprises Llc... 2025-10-30 00:39:47,332 - INFO - 💾 Progress saved: 40 businesses
+✓ Axiom Flooring Enterprises
+[ 51/637] B Z Alliance Insurance... ✓ B & Z Alliance Insurance
+[ 52/637] B Z Alliance Insurance... ✓ B & Z Alliance Insurance
+[ 53/637] B7 Services... ✓ B7 Cleaning Services/DB3 Solutions
+[ 54/637] Balizza Healthcare Solutions... ✓ Balizza Healthcare Solutions
+[ 55/637] Bar 29... ✓ Bar 29
+[ 56/637] Barcode Glam Studio... ✓ Barcode Glam Studio
+[ 57/637] Barnes Real Estate... ✓ Barnes Real Estate
+[ 58/637] Battle Axe Construction Llc... ✓ Battle Axe Construction
+[ 59/637] Bbs Beauty Bar... ✓ BB’s Beauty Bar
+[ 60/637] Be Defined... 2025-10-30 00:40:16,647 - INFO - 💾 Progress saved: 49 businesses
+✓ Be Defined Training & Companion Care
+[ 61/637] Beauty By A Monique... ✓ Beauty By A Monique
+[ 62/637] Beauty By Trinity... ✓ Beauty By Trinity Professional Salon
+[ 63/637] Beauty By Trinity... ✓ Beauty By Trinity Professional Salon
+[ 64/637] Beezfly Closet... ✓ BeezFly Closet
+[ 65/637] Beezfly Closet... ✓ BeezFly Closet
+[ 66/637] Best Behavioral Health... ✓ Best Behavioral Health
+[ 67/637] Bestthingsmokin... ✓ Best Thing Smokin' Food Truck
+[ 68/637] Big Jays Place... ✓ Big Jays Place Caribbean Restaurant
+[ 69/637] Black Bossie... ✓ Black & Bossie
+[ 70/637] Black Career Womens Network... 2025-10-30 00:40:42,472 - INFO - 💾 Progress saved: 57 businesses
+✓ Black Career Women's Network
+[ 71/637] Black Coffee Lounge... ✓ Black Coffee
+[ 72/637] Black Coffee Lounge... ✓ Black Coffee
+[ 73/637] Black Owned Outerwear... ✓ BlaCkOWned Outerwear
+[ 74/637] Black Owned Travel Phillips Cincinnati... ✓ Phillips Travel
+[ 75/637] Black T I E Protective Services... ✓ Black T.I.E. Protective Services
+[ 76/637] Blossoms Florist... ✓ Blossoms Florist
+[ 77/637] Bluerose Supply Company... ✓ BlueRose Product Supply
+[ 78/637] Blush Event Loft... ✓ Blush The Event Loft
+[ 79/637] Bob Shropshire Sons Llc... ✓ Bob Shropshire Sons Driving School
+[ 80/637] Bodied By Rico... 2025-10-30 00:41:08,892 - INFO - 💾 Progress saved: 66 businesses
+✓ Bodied by Rico
+[ 81/637] Bol Acai Bowl Bar... ✓ BOL Acai Bowls
+[ 82/637] Bonita Bello... ✓ Bonita & Bello
+[ 83/637] Bonita Bello... ✓ Bonita & Bello
+[ 84/637] Boomtown Biscuits And Whiskey... ✓ Boomtown Biscuits and Whiskey
+[ 85/637] Bouchards Bakery... ✓ Bouchard's Bakery and Pasta
+[ 86/637] Boutique Business Solutions... ✓ Boutique Business Solutions
+[ 87/637] Brbs World Llc... ✓ BRBS World
+[ 88/637] Breakthrough Lens... ✓ Breakthrough Lens
+[ 89/637] Breakthrough Lens... ✓ Breakthrough Lens
+[ 90/637] Breakthru Business Solutions... 2025-10-30 00:41:37,280 - INFO - 💾 Progress saved: 74 businesses
+✓ BreakThru Business Solutions
+[ 91/637] Breakthru Business Solutions... ✓ BreakThru Business Solutions
+[ 92/637] Brewster Pumping... ✓ Brewster Pumping
+[ 93/637] Brooks Printing Promotions... ✓ Brooks Printing & Promotions
+[ 94/637] Brow Therapy... ✓ Brow Therapy
+[ 95/637] Bth Construction... ✓ BTH Construction and Design
+[ 96/637] Bugattis Ultra Lounge... ✓ Bugatti's Ultra Lounge
+[ 97/637] Caldwell Family Wellness... ✓ Caldwell Family Wellness
+[ 98/637] Call On An Angel... ✓ Call On An Angel Salon
+[ 99/637] Calming Souls Massage... ✓ Calming Souls Massage
+[100/637] Catherines Good Eats... 2025-10-30 00:42:03,725 - INFO - 💾 Progress saved: 83 businesses
+✓ Catherine's Good Eats Soul Food Kitchen
+[101/637] Chamaele... ✓ Chamaele Herbs and Superfoods
+[102/637] Chamaele... ✓ Chamaele Herbs and Superfoods
+[103/637] Chamodas Candy Cafe... ✓ Chamoda's Candy Cafe
+[104/637] Che International Group... ✓ The Che International Group
+[105/637] Che International Group... ✓ The Che International Group
+[106/637] Cheap Tree Service... ✓ Cheap Tree Service
+[107/637] Chef Nem Kitchen... ✓ Chef Nem Kitchen
+[108/637] Chicos Cheesecakes... ✓ Chico's Cheesecakes
+[109/637] Cincinnati Black Theatre Company... ✓ The Cincinnati Black Theatre Company
+[110/637] Cincinnati Black Theatre Company... 2025-10-30 00:42:31,694 - INFO - 💾 Progress saved: 90 businesses
+✓ The Cincinnati Black Theatre Company
+[111/637] Cincinnati Healing Arts... ✓ Cincinnati Healing Arts
+[112/637] Cincinnati Healing Arts... ✓ Cincinnati Healing Arts
+[113/637] Cincinnati Healthy Hair Pampering Parlor... ✓ Cincinnati Healthy Hair Pampering Parlor
+[114/637] Cincinnati Healthy Hair Pampering Parlor... ✓ Cincinnati Healthy Hair Pampering Parlor
+[115/637] Cincinnati Muscle Therapy... ✓ Cincinnati Muscle Therapy
+[116/637] Cincinnati Muscle Therapy... ✓ Cincinnati Muscle Therapy
+[117/637] Cincy Tax Notary Professionals... ✓ Cincy Tax & Notary Professionals
+[118/637] Cincy Tax Notary Professionals... ✓ Cincy Tax & Notary Professionals
+[119/637] Cinema Otr... ✓ Cinema OTR
+[120/637] City Belle Fried Pies... 2025-10-30 00:42:57,283 - INFO - 💾 Progress saved: 96 businesses
+✓ City Belle Fried Pies
+[121/637] Classy Chics Shoe Boutique... ✓ Classy Chics Shoe Boutique
+[122/637] Cm Gc... ✓ CM-GC Construction
+[123/637] Cm Gc... ✓ CM-GC Construction
+[124/637] Coach Xola Nicole... ✓ Coach Xola Nicole
+[125/637] Cocoa Books... ✓ Cocoa Books Publishing
+[126/637] Collaborative Counseling Services... ✓ Collaborative Counseling Services
+[127/637] Collaborative Counseling Services... ✓ Collaborative Counseling Services
+[128/637] Community Barbershop... ✓ Community Barbershop
+[129/637] Community Lawn And Services... ✓ Community Lawn and Services
+[130/637] Compress Cpr And First Aid Training... 2025-10-30 00:43:25,022 - INFO - 💾 Progress saved: 104 businesses
+✓ Compress CPR Training
+[131/637] Coras Cakery... ✓ Cora's Cakery
+[132/637] Cove 51... ✓ Cove 51 Night Club
+[133/637] Cream Sugar... ✓ Cream + Sugar Coffee House
+[134/637] Cream Sugar... ✓ Cream + Sugar Coffee House
+[135/637] Creative Soul Studios... ✓ Creative Soul Studios Photography and Vi
+[136/637] Creekwood Energy... ✓ Creekwood Commercial Energy Management
+[137/637] Creekwood Energy... ✓ Creekwood Commercial Energy Management
+[138/637] Crown Kids Healthy Hair Care... ✓ Crown Kids Healthy Hair Care
+[139/637] Cultural Wellness... ✓ Cultural Wellness
+[140/637] Curvy Cardio... 2025-10-30 00:43:51,043 - INFO - 💾 Progress saved: 112 businesses
+✓ Curvy Cardio Fitness Classes
+[141/637] Curvy Cardio... ✓ Curvy Cardio Fitness Classes
+[142/637] Cut Blow... ✓ Cut & Blow Hair Salon
+[143/637] Cut Blow... ✓ Cut & Blow Hair Salon
+[144/637] Dada Smokes Bbq Catering... ✓ Dada Smokes BBQ & Catering
+[145/637] Darou Salam Restaurant... ✓ Darou Salam Restaurant
+[146/637] Dats Ole School Cookin... ✓ Dats Ole School Cookin
+[147/637] Dats Ole School Cookin... ✓ Dats Ole School Cookin
+[148/637] Davis Cookie Collection... ✓ Davis Cookie Collection
+[149/637] Dawson Cleaning Supplies... ✓ Dawson Cleaning Supplies LLC
+[150/637] Dee Licious Pound Cakes Llc... 2025-10-30 00:44:16,245 - INFO - 💾 Progress saved: 119 businesses
+✓ Dee-Licious Pound Cakes
+[151/637] Dee Licious Pound Cakes Llc... ✓ Dee-Licious Pound Cakes
+[152/637] Dentistry Details... ✓ Dentistry Details
+[153/637] Dipped Sweets... ✓ Dipped Sweets
+[154/637] Dipped Sweets... ✓ Dipped Sweets
+[155/637] Diversion Investigations... ✓ Diversion Private Investigations
+[156/637] Divine Appetite Cafe And Catering... ✓ Divine Appetite Cafe
+[157/637] Dj Edits... ✓ dj.edits Editorial Services Company
+[158/637] Dnk Architects... ✓ DNK Architects
+[159/637] Dnk Architects... ✓ DNK Architects
+[160/637] Dots Fine Shoe Repair... 2025-10-30 00:44:41,625 - INFO - 💾 Progress saved: 126 businesses
+✓ Dot's Fine Shoe Repair
+[161/637] Drip Coffee Lounge... ✓ Drip Coffee Bond Hill
+[162/637] Drip Coffee Lounge... ✓ Drip Coffee Bond Hill
+[163/637] Dynamic Business Group... ✓ Dynamic Business Group
+[164/637] Earths Precious Jewels Cincinnati... ✓ Earth's Precious Jewels Literacy & Fitne
+[165/637] Eastern Personnel Services... ✓ Eastern Personnel and Staffing Services
+[166/637] Eastern Personnel Services... ✓ Eastern Personnel and Staffing Services
+[167/637] Eddies Southern Style Bbq And Catering... ✓ Eddie's Southern Style BBQ and Catering
+[168/637] Edibles N Such... ✓ Edibles-n-Such, Inc. Catering
+[169/637] Elevation Beauty... ✓ Elevation Beauty
+[170/637] Eleven 22 Vegan... 2025-10-30 00:45:09,613 - INFO - 💾 Progress saved: 134 businesses
+✓ Eleven/22 Vegan
+[171/637] Eleven 22 Vegan... ✓ Eleven/22 Vegan
+[172/637] Elite Kingdom Kids... ✓ Elite Kingdom Kids Childcare
+[173/637] Elite Kingdom Kids... ✓ Elite Kingdom Kids Childcare
+[174/637] Eliza Janes Bakeshop... ✓ Eliza Jane’s Online Bakeshop and Food Tr
+[175/637] Emerging Spirit Counseling Services... ✓ Emerging Spirit Counseling Services
+[176/637] Emh Enterprises Llc... ✓ EMH Enterprises
+[177/637] Empathy Home Healthcare... ✓ Empathy Home Healthcare
+[178/637] Encounter Wellness... ✓ Encounter Wellness MHS
+[179/637] Environmental And Safety Solutions Inc... ✓ Environmental Safety Solutions
+[180/637] Epic Event Gallery... 2025-10-30 00:45:35,726 - INFO - 💾 Progress saved: 142 businesses
+✓ Epic Event Gallery
+[181/637] Epiphany Hr Solutions... ✓ Epiphany HR Solutions
+[182/637] Epiphany Hr Solutions... ✓ Epiphany HR Solutions
+[183/637] Esoteric Brewing Company... ✓ Esoteric Brewing Company
+[184/637] Esoteric Brewing Company... ✓ Esoteric Brewing Company
+[185/637] Eurie Realty... ✓ Eurie Realty
+[186/637] Exklusive Jewels Llc... ✓ Exklusive Jewels
+[187/637] Exposure Best Photography... ✓ Exposure Best Photography
+[188/637] Exquisite Events By Amanee... ✓ Exquisite Events by Amanee
+[189/637] Exquisite Events By Amanee... ✓ Exquisite Events by Amanee
+[190/637] Facility Management Planning Services... 2025-10-30 00:46:01,456 - INFO - 💾 Progress saved: 149 businesses
+✓ Facility Management & Planning Services
+[191/637] Facility Management Planning Services... ✓ Facility Management & Planning Services
+[192/637] Fast Track Training Center... ✓ Fast Track Training Center
+[193/637] Fast Track Training Center... ✓ Fast Track Training Center
+[194/637] Fill More Waste Less... ✓ Fill More Waste Less Zero Waste Company
+[195/637] Financiallyu... ✓ FinanciallyU
+[196/637] Financiallyu... ✓ FinanciallyU
+[197/637] Fitness 1O1... ✓ Fitness 1o1
+[198/637] Flavors Of The Isle... ✓ Flavors of the Isle Catering
+[199/637] Flavors Of The Isle... ✓ Flavors of the Isle Catering
+[200/637] Flex Fitness... 2025-10-30 00:46:28,695 - INFO - 💾 Progress saved: 155 businesses
+✓ Flex Fitness Personal Training Boutique
+[201/637] Flex Fitness... ✓ Flex Fitness Personal Training Boutique
+[202/637] Fly By Nature... ✓ Fly by Nature
+[203/637] Frazier Homes... ✓ Frazier Homes
+[204/637] Freetown Pharmacy... ✓ Freetown Pharmacy
+[205/637] Galerie On 12Th... ✓ Galerie on 12th Boutique Furniture Store
+[206/637] Game Time Budgeting... ✓ Game Time Budgeting
+[207/637] Game Time Budgeting... ✓ Game Time Budgeting
+[208/637] Garden Of Wellness... ✓ Garden of Wellness Massage Therapy
+[209/637] Glovon Clovon Engineering Consulting... ✓ Glovon & Clovon Engineering Consulting
+[210/637] Glovon Clovon Engineering Consulting... 2025-10-30 00:46:55,426 - INFO - 💾 Progress saved: 162 businesses
+✓ Glovon & Clovon Engineering Consulting
+[211/637] Good Brothas Bar And Grill... ✓ Good Brothas Bar and Grill
+[212/637] Good Company Apparel... ✓ GO(O)D Company Apparel
+[213/637] Goodies Southern Style Bbq... ✓ Goodie's Southern Style BBQ
+[214/637] Gpd Creative Agency... ✓ GPD Creative Agency
+[215/637] Gpd Creative Agency... ✓ GPD Creative Agency
+[216/637] Grace Grit Spa... ✓ Grace + Grit Spa
+[217/637] Grace Health Scrubs Llc... ✓ Grace Health Scrubs
+[218/637] Graceful Grins... ✓ Graceful Grins Pediatric Dentistry
+[219/637] Ground Zero Electric... ✓ Ground Zero Electric, LLC
+[220/637] Gt Industrial Supply... 2025-10-30 00:47:20,843 - INFO - 💾 Progress saved: 171 businesses
+✓ GT Industrial Supply
+[221/637] Gwens Gleam Llc... ✓ Gwen's Gleam
+[222/637] Habesha Ethiopian Restaurant... ✓ Habesha Ethiopian Restaurant
+[223/637] Hard Ta Knock Shop... ✓ Hard Ta Knock Shoppe
+[224/637] Have An Epiphany Llc... ✓ Have An Epiphany Event Planning
+[225/637] Heads Up Trading Co... ✓ Heads Up Trading Co.
+[226/637] Heads Up Trading Co... ✓ Heads Up Trading Co.
+[227/637] Health Care Resources Plus Inc... ✓ Health Care Resources Plus, Inc.
+[228/637] Hearts Of Passion... ✓ Hearts of Passion School of Learning
+[229/637] Hearts Of Passion... ✓ Hearts of Passion School of Learning
+[230/637] Herban Vegans Pan Cultural Cuisine... 2025-10-30 00:47:47,625 - INFO - 💾 Progress saved: 179 businesses
+✓ Herban Vegans
+[231/637] Herban Vegans Pan Cultural Cuisine... ✓ Herban Vegans
+[232/637] Heroes Rise Street Dance Academy... ✓ Heroes Rise Street Dance Academy
+[233/637] Hightowers Petroleum Co... ✓ Hightowers Petroleum Co.
+[234/637] Honest Locksmiths... ✓ Honest Locksmiths
+[235/637] Honey Child Artisan Pops... ✓ Honey Child Artisan Pops
+[236/637] Honey Child Artisan Pops... ✓ Honey Child Artisan Pops
+[237/637] Humblebee Childcare Learning Center... ✓ Humble Bee Childcare Learning Center
+[238/637] Hydro Wellness And Detox... ✓ Hydro Wellness and Detox
+[239/637] Hygienic Cleaning Services... ✓ Hygienic Cleaning Services
+[240/637] I Love To Agree Llc... 2025-10-30 00:48:15,264 - INFO - 💾 Progress saved: 187 businesses
+✓ I Love to Agree Event Planning
+[241/637] Illustrious Cleaning Solutions... ✓ Illustrious Cleaning Solutions LLC
+[242/637] Imec Training Complex... ✓ IMEC Training Complex
+[243/637] Imec Training Complex... ✓ IMEC Training Complex
+[244/637] Imgbat 2... ✓ IMGBAT – Jewelry, Art & Engraving
+[245/637] Indulju Relaxation Boutique... ✓ Indulju Relaxation Boutique
+[246/637] Innate Insights Counseling And Coaching... ✓ Innate Insights Counseling and Coaching,
+[247/637] Innovative Labor And Cleaning Services... ✓ Innovative Labor and Cleaning Services
+[248/637] Inoarg... ✓ InoarG Yoga Studio
+[249/637] Inspire Salon And Boutique... ✓ Inspire Salon and Boutique
+[250/637] Inspire Salon And Boutique... 2025-10-30 00:48:41,117 - INFO - 💾 Progress saved: 195 businesses
+✓ Inspire Salon and Boutique
+[251/637] Inspired Fashion... ✓ Inspired Fashion
+[252/637] Inspired Fashion... ✓ Inspired Fashion
+[253/637] Integrative Health And Sports Medicine... ✓ Integrative Health and Sports Medicine
+[254/637] Invito Personal Chef... ✓ Invito Personal Chef
+[255/637] Island Frydays... ✓ Island Frydays
+[256/637] Jackson Ilyas... ✓ Jackson ILyas Therapy Solutions
+[257/637] Jakoba Consulting Llc... ✓ Jakoba Consulting
+[258/637] Jamal Maxsam... ✓ Jamal Maxsam Consulting
+[259/637] Janel Lee Photography... ✓ Janel Lee Photography
+[260/637] Jazzy Sweeties Bakery... 2025-10-30 00:49:08,331 - INFO - 💾 Progress saved: 204 businesses
+✓ Jazzy Sweeties Bakery
+[261/637] Jazzy Sweeties Bakery... ✓ Jazzy Sweeties Bakery
+[262/637] Jennifique Lashes Brows Beauty... ✓ Jennifique Lashes Brows Beauty
+[263/637] Jetabout Travel... ✓ JetAbout Travel
+[264/637] Jetabout Travel... ✓ JetAbout Travel
+[265/637] Jj Drafting Service Llc... ✓ JJ Residential Design and Drafting Servi
+[266/637] Jj Drafting Service Llc... ✓ JJ Residential Design and Drafting Servi
+[267/637] Jl Tillman Insurance Agency... ✓ JL Tillman Insurance Agency
+[268/637] Jonnies Hair Care... ✓ Jonnie's Hair Care Hair Salon
+[269/637] Jonnies Hair Care... ✓ Jonnie's Hair Care Hair Salon
+[270/637] Joseph Clark Gallery... 2025-10-30 00:49:33,907 - INFO - 💾 Progress saved: 210 businesses
+✓ Joseph Clark Gallery - Arts of Africa
+[271/637] Journey Steel... ✓ Journey Steel, Inc.
+[272/637] Journey Steel... ✓ Journey Steel, Inc.
+[273/637] Junebug Jewelry Designs... ✓ Junebug Jewelry Designs
+[274/637] Junebug Jewelry Designs... ✓ Junebug Jewelry Designs
+[275/637] Just Cookin Bbq... ✓ Just Cookin BBQ
+[276/637] Just Love Coffee Cafe... ✓ Just Love Coffee Cafe
+[277/637] Just Qin... ✓ Just Q'in
+[278/637] Jw Bar B Que... ✓ J&W Bar-B-Que Restaurant
+[279/637] Jwgraham Speech Therapy... ✓ JWGraham Speech Therapy Services, LLC
+[280/637] Kaptivative Hr Solutions... 2025-10-30 00:49:59,087 - INFO - 💾 Progress saved: 218 businesses
+✓ Kaptivative HR Solutions
+[281/637] Katch The Kitchen Food Truck Restaurant Bar... ✓ Katch the Kitchen Restaurant & Bar
+[282/637] Katch The Kitchen Food Truck Restaurant Bar... ✓ Katch the Kitchen Restaurant & Bar
+[283/637] Kavod Bethel African And Caribbean Market... ✓ Kavod Bethel African and Caribbean Marke
+[284/637] Kekes Publishing... ✓ KeKe's Publishing
+[285/637] Kekes Publishing... ✓ KeKe's Publishing
+[286/637] Kept House... ✓ Kept House Estate Sales
+[287/637] Kept House... ✓ Kept House Estate Sales
+[288/637] Key Spot Event Center... ✓ Key Spot Event Center
+[289/637] Kickbacks Sports Bar... ✓ Kickbacks Sports Bar and Nightclub
+[290/637] Kilimanjaro African Heritage... 2025-10-30 00:50:30,060 - INFO - 💾 Progress saved: 225 businesses
+✓ Kilimanjaro African Heritage Fashion
+[291/637] Kingdom Family Dentistry... ✓ Kingdom Family Dentistry
+[292/637] Kip Roofing And Construction Llc... ✓ KIP Roofing And Construction LLC
+[293/637] Kiwavi Hq... ✓ Kiwavi HQ Meeting Space
+[294/637] Kolored On Purpose... ✓ Kolored on Purpose
+[295/637] Kp Heating And Cooling Llc... ✓ KP Heating and Cooling, LLC
+[296/637] Kunimura Mitchell Co Cpas... ✓ Kunimura Mitchell & Co. CPA's
+[297/637] Kunimura Mitchell Co Cpas... ✓ Kunimura Mitchell & Co. CPA's
+[298/637] Kvc Law Firm... ✓ KVC Law Firm and Consulting LLC
+[299/637] L Danyetta Najoli... ✓ Najoli Learning Group LLC
+[300/637] Labors Of Love... 2025-10-30 00:50:57,056 - INFO - 💾 Progress saved: 234 businesses
+✓ Labors of Love Counseling and Consulting
+[301/637] Labors Of Love... ✓ Labors of Love Counseling and Consulting
+[302/637] Latishas Magic Beauty Shop... ✓ Latisha's Magik Boutique
+[303/637] Latishas Magic Beauty Shop... ✓ Latisha's Magik Boutique
+[304/637] Licia Thompson... ✓ Licia Thompson Coaching &amp; Consulting
+[305/637] Lifesource Christian Life Mental Health Coaching... ✓ LifeSource Christian Life & Mental Healt
+[306/637] Londons Hair Food... ✓ London's Hair Food
+[307/637] Londons Hair Food... ✓ London's Hair Food
+[308/637] Love Nightclub... ✓ LoVe Nightclub
+[309/637] Love Photography Studios... ✓ Love Photography Studios
+[310/637] Love Photography Studios... 2025-10-30 00:51:26,222 - INFO - 💾 Progress saved: 240 businesses
+✓ Love Photography Studios
+[311/637] Love That Hair... ✓ Love That Hair Salon
+[312/637] Lovely Yonis... ✓ Lovely Yoni’s
+[313/637] Lovely Yonis... ✓ Lovely Yoni’s
+[314/637] M T A P Clothing... ✓ M.T.A.P. Clothing
+[315/637] Magnificent Morsels... ✓ Magnificent Morsels Catering
+[316/637] Magnificent Morsels... ✓ Magnificent Morsels Catering
+[317/637] Mahogany Home Health And Hospice... ✓ Mahogany Home
+[318/637] Make Do... ✓ Make.Do. Yarn and Fabric Store
+[319/637] Make Do... ✓ Make.Do. Yarn and Fabric Store
+[320/637] Make It Plain Consulting Llc... 2025-10-30 00:51:54,236 - INFO - 💾 Progress saved: 247 businesses
+✓ Make It Plain Consulting
+[321/637] Make Me Over Wholistic Health... ✓ Make Me Over Wholistic Health and Stress
+[322/637] Makers Bakers Co... ✓ Makers Bakers Co
+[323/637] Mama Afrique Nigerian Cuisine... ✓ Mama Afrique Nigerian Cuisine
+[324/637] Mangos Tropical Oasis... ✓ Mango’s Tropical Oasis
+[325/637] Market Direct... ✓ Market Direct Promotional Items, Inc.
+[326/637] Market Wines Walnut Hills... ✓ Market Wines Walnut Hills
+[327/637] Matunda Juicery Co... ✓ Matunda Juicery & Co.
+[328/637] Matunda Juicery Co... ✓ Matunda Juicery & Co.
+[329/637] Mcclure Capital Lending... ✓ McClure Capital Lending
+[330/637] Me By Lee... 2025-10-30 00:52:21,955 - INFO - 💾 Progress saved: 256 businesses
+✓ Me By Lee Boutique
+[331/637] Megen Construction Company... ✓ Megen Construction Co.
+[332/637] Megen Construction Company... ✓ Megen Construction Co.
+[333/637] Metric Environmental Llc... ✓ Metric Environmental
+[334/637] Midwest Best Bbq And Creamery... ✓ Midwest Best BBQ and Creamery
+[335/637] Mirror Mirror On The Move... ✓ Mirror Mirror on the Move Photo Booths
+[336/637] Mirror Mirror On The Move... ✓ Mirror Mirror on the Move Photo Booths
+[337/637] Momunnie Tax Services... ✓ Momunnie Tax Services
+[338/637] Moncor Consulting Llc... ✓ Moncor Consulting
+[339/637] Monya Wyatt Consulting... ✓ Monya Wyatt Consulting
+[340/637] Moody Nolan Inc... 2025-10-30 00:52:50,908 - INFO - 💾 Progress saved: 264 businesses
+✓ Moody Nolan
+[341/637] Moreau Sewing Unlimited... ✓ Moreau Sewing Unlimited
+[342/637] Most Outgrowing Llc... ✓ Most OutGROWing Arts
+[343/637] Mr Clippers Knife Sharpening... ✓ Mr. Clippers Sharpening
+[344/637] Mr12Am... ✓ Mr12am Photography and Videography
+[345/637] Multicultural Solutions... ✓ Multicultural Solutions Website Design a
+[346/637] Multicultural Solutions... ✓ Multicultural Solutions Website Design a
+[347/637] Murrelles Florist... ✓ bus2_business_name
+[348/637] Muse Cafe... ✓ Muse Café
+[349/637] Mylorose... ✓ MyloRose Janitorial Service
+[350/637] Mz Jades Soul Food... 2025-10-30 00:53:19,151 - INFO - 💾 Progress saved: 273 businesses
+✓ Mz Jade's Soul Food
+[351/637] Nahamani Org Consulting... ✓ Nahamani.org Consulting
+[352/637] Nannys Multi Level Learning Center... ✓ Nanny’s Multi Level Learning Center
+[353/637] Natural Shea Care... ✓ Natural Shea Care
+[354/637] New Direction Coaching And Consulting... ✓ New Direction Coaching & Consulting
+[355/637] New Journeys... ✓ New Journeys for Cleaning
+[356/637] New Journeys... ✓ New Journeys for Cleaning
+[357/637] New Leaf Counseling... ✓ New Leaf Counseling Group, LLC
+[358/637] Next Generation Fuel... ✓ Next Generation Fuel LLC
+[359/637] Niecey Freeman Llc... ✓ Niecey Freeman Counseling
+[360/637] Night Kap Soul Food Restaurant... 2025-10-30 00:53:49,459 - INFO - 💾 Progress saved: 282 businesses
+✓ Night Kap Soul Food Restaurant
+[361/637] Nina Liricqs... ✓ Nina LiricQ's
+[362/637] Njia Pathways To Healing... ✓ bus2_business_name
+[363/637] No Pork On My Fork... ✓ No Pork on My Fork Food Trailer
+[364/637] No Pork On My Fork... ✓ No Pork on My Fork Food Trailer
+[365/637] Nolia Kitchen... ✓ bus2_business_name
+[366/637] Nostalgia Wine Jazz... ✓ Nostalgia Wine & Jazz Lounge
+[367/637] Nostalgia Wine Jazz... ✓ Nostalgia Wine & Jazz Lounge
+[368/637] Nove Home Body Decor... ✓ NOVE Home & Body Decor
+[369/637] Noviad 360 Photo Booth Rental... ✓ Noviad 360 Photo Booth Rental
+[370/637] Nurture Me... 2025-10-30 00:54:15,871 - INFO - 💾 Progress saved: 288 businesses
+✓ Nurture Me. Growth in different ways
+[371/637] Ocg Telecom... ✓ OCG Telecom
+[372/637] Ohio Kurvy Fashion Weekend... ✓ Ohio Kurvy Fashion Weekend
+[373/637] Ollies Trolley... ✓ Ollie's Trolley
+[374/637] Omega Janitorial Service... ✓ Omega Janitorial Service
+[375/637] Omega Janitorial Service... ✓ Omega Janitorial Service
+[376/637] On The Go Mobile... ✓ On The Go Mobile Alcohol and Drug Collec
+[377/637] On1 Apparel... ✓ On1 Apparel
+[378/637] Originalitees... ✓ Originalitees Apparel
+[379/637] Otr Funplex... ✓ OTR Funplex
+[380/637] Otr Live... 2025-10-30 00:54:41,617 - INFO - 💾 Progress saved: 297 businesses
+✓ OTR Live Night Club
+[381/637] Out The Way Bar Grill... ✓ Out The Way Bar & Grill
+[382/637] 10... ✓ Archives:Businesses
+[383/637] 11... ✓ Archives:Businesses
+[384/637] 12... ✓ Archives:Businesses
+[385/637] 13... ✓ Archives:Businesses
+[386/637] 14... ✓ Archives:Businesses
+[387/637] 15... ✓ Archives:Businesses
+[388/637] 16... ✓ Archives:Businesses
+[389/637] 17... ✓ Archives:Businesses
+[390/637] 18... 2025-10-30 00:55:08,310 - INFO - 💾 Progress saved: 298 businesses
+✓ Archives:Businesses
+[391/637] 19... ✓ Archives:Businesses
+[392/637] 2... ✓ Archives:Businesses
+[393/637] 20... ✓ Archives:Businesses
+[394/637] 21... ✓ Archives:Businesses
+[395/637] 22... ✓ Archives:Businesses
+[396/637] 23... ✓ Archives:Businesses
+[397/637] 24... ✓ Archives:Businesses
+[398/637] 25... ✓ Archives:Businesses
+[399/637] 26... ✓ Archives:Businesses
+[400/637] 27... 2025-10-30 00:55:35,180 - INFO - 💾 Progress saved: 298 businesses
+✓ Archives:Businesses
+[401/637] 28... ✓ Archives:Businesses
+[402/637] 29... ✓ Archives:Businesses
+[403/637] 3... ✓ Archives:Businesses
+[404/637] 30... ✓ Archives:Businesses
+[405/637] 31... ✓ Archives:Businesses
+[406/637] 32... ✓ Archives:Businesses
+[407/637] 33... ✓ Archives:Businesses
+[408/637] 34... ✓ Archives:Businesses
+[409/637] 35... ✓ Archives:Businesses
+[410/637] 36... 2025-10-30 00:55:59,997 - INFO - 💾 Progress saved: 298 businesses
+✓ Archives:Businesses
+[411/637] 37... ✓ Archives:Businesses
+[412/637] 38... ✓ Archives:Businesses
+[413/637] 39... ✓ Archives:Businesses
+[414/637] 4... ✓ Archives:Businesses
+[415/637] 40... ✓ Archives:Businesses
+[416/637] 41... ✓ Archives:Businesses
+[417/637] 42... ✓ Archives:Businesses
+[418/637] 43... ✓ Archives:Businesses
+[419/637] 44... ✓ Archives:Businesses
+[420/637] 45... 2025-10-30 00:56:25,118 - INFO - 💾 Progress saved: 298 businesses
+✓ Archives:Businesses
+[421/637] 46... ✓ Archives:Businesses
+[422/637] 47... ✓ Archives:Businesses
+[423/637] 5... ✓ Archives:Businesses
+[424/637] 6... ✓ Archives:Businesses
+[425/637] 7... ✓ Archives:Businesses
+[426/637] 8... ✓ Archives:Businesses
+[427/637] 9... ✓ Archives:Businesses
+[428/637] Paityns Place Soul Food Catering And Cuisine Llc... ✓ Paityn’s Place Soul Food Catering and Cu
+[429/637] Paradise Fitness Center... ✓ Paradise Gym and Fitness Center
+[430/637] Park Place Restaurant... 2025-10-30 00:56:54,751 - INFO - 💾 Progress saved: 301 businesses
+✓ Park Place Restaurant
+[431/637] Pata Roja Taqueria... ✓ Pata Roja Taqueria
+[432/637] Perfect Touch Helps... ✓ Perfect Touch Helps
+[433/637] Perfectionist Cleaning Service... ✓ Perfectionist Cleaning Service
+[434/637] Perfectionist Cleaning Service... ✓ Perfectionist Cleaning Service
+[435/637] Perfectly Placed By Pamela... ✓ Perfectly Placed by Pamela
+[436/637] Personal Care And Personal Training... ✓ Personal Care and Personal Training
+[437/637] Pike 2 Bar And Grill... ✓ Pike 2 Bar and Grill
+[438/637] Pink Rich Charm Bar... ✓ Pink Rich Charm Bar
+[439/637] Plant Therapy By Brandie... ✓ Plant Therapy by Brandie
+[440/637] Plant Therapy By Brandie... 2025-10-30 00:57:20,418 - INFO - 💾 Progress saved: 309 businesses
+✓ Plant Therapy by Brandie
+[441/637] Plutos Cafe... ✓ Pluto's Cafe
+[442/637] Pope Financial Planning... ✓ Pope Financial Planning
+[443/637] Pope Financial Planning... ✓ Pope Financial Planning
+[444/637] Posh Fitness... ✓ Posh Fitness and Pole Classes
+[445/637] Poti9N... ✓ POTI9N Adult Beverages
+[446/637] Power Academy... ✓ POWER Academy of Cincinnati Martial Arts
+[447/637] Precise Timing Transports... ✓ Precise Timing Transports LLC
+[448/637] Premier Transformation Counseling And Consulting S... ✓ Premier Transformation Counseling
+[449/637] Press N Stitch... ✓ Press N Stitch
+[450/637] Preston Charles Funeral Home... 2025-10-30 00:57:45,809 - INFO - 💾 Progress saved: 318 businesses
+✓ Preston Charles Funeral Home
+[451/637] Pretty Please Makeup Studio... ✓ Pretty Please Makeup Studio
+[452/637] Prevail Productions... ✓ Prevail Productions
+[453/637] Pro Auto Tint And Details... ✓ Pro Auto Tint and Details
+[454/637] Pro Auto Tint And Details... ✓ Pro Auto Tint and Details
+[455/637] Pro Contractors... ✓ Pro-Contractors
+[456/637] Prttypkup... ✓ PrttyPkUp
+[457/637] Prttypkup... ✓ PrttyPkUp
+[458/637] Purpose 513... ✓ Purpose513
+[459/637] Qtique Ish... ✓ Q'Tique-ish Apparel
+[460/637] Qtique Ish... 2025-10-30 00:58:11,794 - INFO - 💾 Progress saved: 325 businesses
+✓ Q'Tique-ish Apparel
+[461/637] Queen City Medical Transport... ✓ Queen City Medical Transport
+[462/637] Queen City Thrones... ✓ Queen City Thrones Party Equipment Renta
+[463/637] Rachel R Citak Attorney At Law Llc... ✓ Rachel R. Citak, Attorney at Law
+[464/637] Rachel R Citak Attorney At Law Llc... ✓ Rachel R. Citak, Attorney at Law
+[465/637] Renaturals... ✓ RENaturals Beauty & Wellness Spa
+[466/637] Renaturals... ✓ RENaturals Beauty & Wellness Spa
+[467/637] Rescue Quest Cpr... ✓ Rescue Quest CPR
+[468/637] Respect 4 Life Security... ✓ Respect 4 Life Security
+[469/637] Restoremd Medical Weight Loss... ✓ RestoreMD Medical Weight Loss
+[470/637] Richardson And Associates Accounting... 2025-10-30 00:58:38,054 - INFO - 💾 Progress saved: 333 businesses
+✓ Richardson and Associates CPA's
+[471/637] Rideordie Gun Training... ✓ Rideordie Gun Training
+[472/637] Rilentertainment... ✓ RilEntertainment Party Planning
+[473/637] Rilentertainment... ✓ RilEntertainment Party Planning
+[474/637] Rise Business Solutions... ✓ Rise Business Solutions
+[475/637] Rise Business Solutions... ✓ Rise Business Solutions
+[476/637] Riston Financial Service Group... ✓ Riston Financial Service Group
+[477/637] Rn And Associates Llc... ✓ RN and Associates Healthcare Training
+[478/637] Rooted In Prosperity... ✓ Rooted in Prosperity Mental Wellness
+[479/637] Rosalind Smith Counseling... ✓ Rosalind Smith Counseling
+[480/637] Rosalind Smith Counseling... 2025-10-30 00:59:03,620 - INFO - 💾 Progress saved: 340 businesses
+✓ Rosalind Smith Counseling
+[481/637] Rosho... ✓ RoSho Awards & Graphics
+[482/637] Rosho... ✓ RoSho Awards & Graphics
+[483/637] Rover The Rhine Veterinary Hospital... ✓ Rover The Rhine Veterinary Hospital
+[484/637] Royalty Janitorial Services... ✓ Royalty Janitorial Services
+[485/637] Royalty Janitorial Services... ✓ Royalty Janitorial Services
+[486/637] Rushfit Studio... ✓ RushFit Studio
+[487/637] Rushfit Studio... ✓ RushFit Studio
+[488/637] Saige Consulting Services... ✓ SAIGE Consulting
+[489/637] Sam B Fingerprints... ✓ Sam B. Fingerprints
+[490/637] Sanders Development Group... 2025-10-30 00:59:29,274 - INFO - 💾 Progress saved: 347 businesses
+✓ Sanders Development Group
+[491/637] Satori Holistic Massage... ✓ Satori Holistic Massage
+[492/637] Saturday Morning Vibes... ✓ Saturday Morning Vibes
+[493/637] Savor Eventz Llc... ✓ Savor Eventz
+[494/637] Scoop Dawgs Caribbean Restaurant... ✓ Scoop Dawg’s
+[495/637] Second Lenox... ✓ Second & Lenox
+[496/637] Second Lenox... ✓ Second & Lenox
+[497/637] Secure Protect... ✓ Secure & Protect
+[498/637] Secure Protect... ✓ Secure & Protect
+[499/637] Selfie Cincy... ✓ Selfie Cincy
+[500/637] Sentimental Bracelets... 2025-10-30 00:59:56,589 - INFO - 💾 Progress saved: 355 businesses
+✓ Sentimental Bracelets
+[501/637] Shangos Urban Taqueria... ✓ Shango's Urban Taqueria
+[502/637] Shawndale Thomas Photography... ✓ Shawndale Thomas Photography
+[503/637] Shay Butternaked... ✓ Shay ButterNaked
+[504/637] Sheffield Accounting And Financial Services... ✓ Sheffield Accounting and Financial Servi
+[505/637] Showcase Building Design... ✓ Showcase Building & Design Inc.
+[506/637] Simplee Miss Bath Body Products... ✓ Simplee Miss Bath & Body Products
+[507/637] Simplee Miss Bath Body Products... ✓ Simplee Miss Bath & Body Products
+[508/637] Skin By Brownlee Co... ✓ Skin by Brownlee & Co.
+[509/637] Skin Haven Aesthetics... ✓ Skin Haven Aesthetics
+[510/637] Skinful Beauty... 2025-10-30 01:00:34,841 - INFO - 💾 Progress saved: 364 businesses
+✓ Skinful Beauty
+[511/637] Soleil Kitchen... ✓ Soleil Kitchen Catering Company
+[512/637] Soul Palette... ✓ Soul Palette Painting Parties
+[513/637] Soul Secrets... ✓ Soul Secrets
+[514/637] Southern Grace Cincy... ✓ Southern Grace Cincy
+[515/637] Southern Grace Cincy... ✓ Southern Grace Cincy
+[516/637] Sparklight Creative Group... ✓ Sparklight Creative Group Personal and P
+[517/637] Sparklight Creative Group... ✓ Sparklight Creative Group Personal and P
+[518/637] Springs And Steel... ✓ Springs and Steel
+[519/637] Stamped By Latrice... ✓ Stamped By Latrice Mobile Notary
+[520/637] Stone Financial Retirement Planning... 2025-10-30 01:01:05,627 - INFO - 💾 Progress saved: 372 businesses
+✓ Stone Financial Retirement Planning
+[521/637] Style And Grace Consignment... ✓ Style and Grace Consignment
+[522/637] Stylish Lenese Clothing Boutique... ✓ Stylish by LéNese Clothing Boutique
+[523/637] Stylish Lenese Clothing Boutique... ✓ Stylish by LéNese Clothing Boutique
+[524/637] Sugar... ✓ Sugar
+[525/637] Sure Mechanical Hvac Services... ✓ SURE Mechanical Commercial HVAC Services
+[526/637] Sure Mechanical Hvac Services... ✓ SURE Mechanical Commercial HVAC Services
+[527/637] Surefire Innovations... ✓ SureFire Innovations
+[528/637] Sutle Productions... ✓ Sutle Productions
+[529/637] Sutle Productions... ✓ Sutle Productions
+[530/637] Sutton Bar And Grill... 2025-10-30 01:01:32,614 - INFO - 💾 Progress saved: 379 businesses
+✓ Sutton Bar and Grill
+[531/637] Swain Consulting... ✓ Swain Consulting
+[532/637] Sweet Jazz Treats... ✓ Sweet Jazz Treats
+[533/637] Sweet Serenity Day Spa... ✓ Sweet Serenity Day Spa LLC
+[534/637] Sweet Tooth Comprehensive Dentistry... ✓ Sweet Tooth Comprehensive Dentistry
+[535/637] Sweet Tooth Comprehensive Dentistry... ✓ Sweet Tooth Comprehensive Dentistry
+[536/637] Sweets By Ladawn... ✓ Sweets by LaDawn
+[537/637] Switch Furniture Lighting... ✓ Switch Lighting & Design
+[538/637] Tailored Sophistication Boutique... ✓ Tailored Sophistication Boutique
+[539/637] Task Concierge... ✓ Task It Concierge Personal Services
+[540/637] Tayairede Beauty Supply... 2025-10-30 01:02:00,295 - INFO - 💾 Progress saved: 388 businesses
+✓ Tay'aire'de Beauty Supply
+[541/637] Tayairede Beauty Supply... ✓ Tay'aire'de Beauty Supply
+[542/637] Technology Tailor Made... ✓ Technology Tailor Made IT
+[543/637] Teranga Restaurant... ✓ Teranga Restaurant
+[544/637] The Aperture... ✓ The Aperture
+[545/637] The Arepa Place... ✓ The Arepa Place
+[546/637] The Aria Bistro And Lounge... ✓ The Aria Bistro and Lounge
+[547/637] The Balloon Parlor... ✓ The Balloon Parlor
+[548/637] The Bangin Grille... ✓ The Bangin’ Grille
+[549/637] The Bangin Grille... ✓ The Bangin’ Grille
+[550/637] The Brow Therapist Llc... 2025-10-30 01:02:26,177 - INFO - 💾 Progress saved: 396 businesses
+✓ The Brow Therapist
+[551/637] The Candace Bates State Farm Insurance Agency... ✓ Candace Bates State Farm Insurance
+[552/637] The Candace Bates State Farm Insurance Agency... ✓ Candace Bates State Farm Insurance
+[553/637] The Cincinnati Herald... ✓ The Cincinnati Herald Newspaper
+[554/637] The Cochran Firm... ✓ The Cochran Firm Ohio Attorneys at Law
+[555/637] The Country Meat Co Marketplace... ✓ The Country Meat Co Marketplace 
+[556/637] The Genesis Collection... ✓ The Genesis Collection
+[557/637] The Genesis Collection... ✓ The Genesis Collection
+[558/637] The Headache Center Of Hope... ✓ Headache Center of Hope
+[559/637] The Headache Center Of Hope... ✓ Headache Center of Hope
+[560/637] The Heyward Group... 2025-10-30 01:02:53,263 - INFO - 💾 Progress saved: 403 businesses
+✓ The Heyward Insurance Brokerage Group
+[561/637] The Heyward Group... ✓ The Heyward Insurance Brokerage Group
+[562/637] The Jazz Spoon... ✓ The Jazz Spoon
+[563/637] The Lash Experience By Marie... ✓ The Lash Experience by Marie
+[564/637] The Law Office Of John M Williams... ✓ The Law Office of John M. Williams
+[565/637] The Law Office Of John M Williams... ✓ The Law Office of John M. Williams
+[566/637] The Linq Event Center... ✓ The Linq Event Center
+[567/637] The Linq Event Center... ✓ The Linq Event Center
+[568/637] The Passion Plate... ✓ The Passion Plate
+[569/637] The Reflective Lotus... ✓ The Reflective Lotus
+[570/637] The Stem Lab... 2025-10-30 01:03:20,146 - INFO - 💾 Progress saved: 410 businesses
+✓ The STEM Lab
+[571/637] The Sweet Place... ✓ The Sweet Place
+[572/637] The Tot Spot... ✓ The Tot Spot Childcare Center
+[573/637] The Voice Of Your Customer... ✓ The Voice of Your Customer
+[574/637] The William Frances Theatre... ✓ The William Frances Theatre Event Center
+[575/637] The William Frances Theatre... ✓ The William Frances Theatre Event Center
+[576/637] The Wilson Law Practice... ✓ The Wilson Law Practice
+[577/637] Tomaros Memories Skincare... ✓ Tomaro's Memories Skincare
+[578/637] Tome Books And Novelteas... ✓ Tome Books and Novelteas
+[579/637] Too Cool Cleaning Services... ✓ Too Cool Cleaning Services
+[580/637] Total Training Services... 2025-10-30 01:03:48,291 - INFO - 💾 Progress saved: 419 businesses
+✓ Total Training Services
+[581/637] Touch Of Heaven Floral... ✓ Touch of Heaven Floral Shoppe
+[582/637] Touch Of Heaven Floral... ✓ Touch of Heaven Floral Shoppe
+[583/637] Tracys Eat Off The Floor Cleaning Services... ✓ Tracy’s Eat Off the Floor Cleaning Servi
+[584/637] Tracys Eat Off The Floor Cleaning Services... ✓ Tracy’s Eat Off the Floor Cleaning Servi
+[585/637] Transformations Health Services... ✓ Transformations Health Services
+[586/637] Transworld Supply Network... ✓ Transworld Supply Network
+[587/637] Transworld Supply Network... ✓ Transworld Supply Network
+[588/637] Traveling Seniors Transportation... ✓ Traveling Seniors Transportation
+[589/637] Traveling Seniors Transportation... ✓ Traveling Seniors Transportation
+[590/637] Treasured Locks... 2025-10-30 01:04:15,287 - INFO - 💾 Progress saved: 425 businesses
+✓ Treasured Locks Beauty Supply
+[591/637] Treasured Locks... ✓ Treasured Locks Beauty Supply
+[592/637] Trendy Elite... ✓ Trendy Elite
+[593/637] Trihealth Womens Finneytown Obgyn... ✓ TriHealth Women’s- Finneytown OBGYN
+[594/637] Trio Enterprises... ✓ Trio Enterprises
+[595/637] Triversity... ✓ Triversity Construction Company
+[596/637] Triversity... ✓ Triversity Construction Company
+[597/637] True Calling Counseling... ✓ True Calling Counseling
+[598/637] Trustus Maintenance And Janitorial... ✓ Trustus Maintenance and Janitorial
+[599/637] Trustus Maintenance And Janitorial... ✓ Trustus Maintenance and Janitorial
+[600/637] Turkeysrus... 2025-10-30 01:04:49,498 - INFO - 💾 Progress saved: 432 businesses
+✓ Turkeys "R" Us BBQ Food Truck
+[601/637] Turkeysrus... ✓ Turkeys "R" Us BBQ Food Truck
+[602/637] Twelve15 Design Studio... ✓ Twelve15 Design Studio
+[603/637] Twelve15 Design Studio... ✓ Twelve15 Design Studio
+[604/637] Unified Business Solutions... ✓ Unified Business Solutions
+[605/637] Unique Kayyture... ✓ Unique Kayyture
+[606/637] Unique Kayyture... ✓ Unique Kayyture
+[607/637] Upgrade Counseling Services... ✓ Upgrade Counseling Services
+[608/637] Uptown Salon And Spa... ✓ Uptown Salon and Spa
+[609/637] Uzima Rejuvenation Station... ✓ Uzima Rejuvenation Station
+[610/637] V Randolph Brown Consulting... 2025-10-30 01:05:32,312 - INFO - 💾 Progress saved: 439 businesses
+✓ V. Randolph Brown Consulting
+[611/637] V Randolph Brown Consulting... ✓ V. Randolph Brown Consulting
+[612/637] Verticalpics... ✓ VerticalPics Photography
+[613/637] Victory Medical Alliance... ✓ Victory Medical Alliance, LLC
+[614/637] Vip Specialty Cuts... ✓ VIP Specialty Haircuts
+[615/637] Virtue Painting... ✓ Virtue Painting, Inc.
+[616/637] Virtue Painting... ✓ Virtue Painting, Inc.
+[617/637] Walker Funeral Home... ✓ Walker Funeral Home
+[618/637] Water Lily Learning Center... ✓ Water Lily Learning Center
+[619/637] Water Lily Learning Center... ✓ Water Lily Learning Center
+[620/637] We Do Bbq... 2025-10-30 01:06:06,527 - INFO - 💾 Progress saved: 446 businesses
+✓ We Do BBQ Food Truck
+[621/637] We Outside... ✓ We Outside Outdoor Adventures
+[622/637] Wesley Education Center... ✓ Wesley Education Center and Preschool
+[623/637] Wesley Education Center... ✓ Wesley Education Center and Preschool
+[624/637] Wheelwork Integrative Wellness Cincinnati... ✓ Wheelwork Integrative Wellness Life Coac
+[625/637] Willpower Contracting... ✓ Willpower Contracting
+[626/637] X Wynn Films... ✓ X. Wynn Films
+[627/637] X Wynn Films... ✓ X. Wynn Films
+[628/637] Xcell Building Construction... ✓ Xcell Building Construction and Maintena
+[629/637] Xceptional Training Center... ✓ Xceptional Training Center
+[630/637] Xceptional Training Center... 2025-10-30 01:06:40,947 - INFO - 💾 Progress saved: 453 businesses
+✓ Xceptional Training Center
+[631/637] Yakitori Urban Hibachi Lounge... ✓ Yakitori Hibachi Restaurant
+[632/637] Yard Vybz Nyaminz... ✓ Yard Vybz Nyaminz Jamaican Restaurant
+[633/637] Yes We Can... ✓ Yes We Can LLC General Contracting
+[634/637] Your Design Partner Llc... ✓ Your Design Partner
+[635/637] Your Priority Health Care... ✓ Your Priority Healthcare
+[636/637] Zencinnati... ✓ Zencinnati Wellness Studio
+[637/637] Zolas Avondale Cafe... 2025-10-30 01:07:04,396 - INFO - 📊 Final save: 460 businesses to black_owned_businesses_complete_20251030_003604.xlsx
+✓ Zola's Avondale Cafe
+
+================================================================================
+                              SCRAPING COMPLETE!
+================================================================================
+Total businesses collected: 637
+Excel file: black_owned_businesses_complete_20251030_003604.xlsx
+
+Contact Information Statistics:
+  • With email:           590
+  • With phone:           590
+  • With address:         587
+  • With website:         637
+  • With all 3 contacts:  587
+================================================================================
+
+✓ SUCCESS! Scraped 637 businesses
+✓ Data saved to: black_owned_businesses_complete_20251030_003604.xlsx
